@@ -98,7 +98,7 @@ Scripts run in this order: `main.py` → `regex filter.py` → `to_sql.py` → `
 ## How to Run
 
 - Fully reproducing the pipeline from scratch requires Google Cloud / BigQuery access (to pull raw GDELT data) — the raw export itself isn't included due to its size.
-- A `.env` file with PostgreSQL credentials and a CARTO API key is not included in the repository for security reasons — without it, `to_sql.py` and `map.py` won't run.
+- A `.env` file with PostgreSQL credentials and a CARTO API key is not included in the repository for security reasons — without it, `to_sql.py` won't run.
 - `GEDEvent_v26_1.csv` (UCDP GED, ~260 MB) is not included due to GitHub's file-size limit — it's freely available at [ucdp.uu.se/downloads](https://ucdp.uu.se/downloads/).
 - The finished pipeline outputs (map, chart, intermediate CSVs) are already in the repository and open without any additional setup.
 
