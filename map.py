@@ -338,7 +338,7 @@ ucdp_texts = {
         "💥",
         "Strike on POLISARIO in Al-Hauza",
         "18.01.2025",
-        "Moroccan media reported a strike on the POLISARIO Front, as reflected in the CrisisWatch report for January 2025. According to SPS, offical SADR outlet was killed Salamou Mohammed Fadel El Boubari - Commander of the POLISARIO Front’s First Reserve Brigade and son of former POLISARIO Front leader Mohamed Abdelaziz. He was considered a possible successor to the current secretary-general, Brahim Gali. ",
+        "Moroccan media reported a strike on the POLISARIO Front, as reflected in the CrisisWatch report for January 2025.",
         3, 3, "POLISARIO",
         "CrisisGroup - CrisisWatch (January 2025)",
         ""
