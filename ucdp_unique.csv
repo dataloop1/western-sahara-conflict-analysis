@@ -1,0 +1,400 @@
+GLOBALEVENTID,extract,status,SQLDATE,Actor1Name,Actor2Name,Actor1CountryCode,Actor2CountryCode,EventCode,QuadClass,GoldsteinScale,AvgTone,ActionGeo_Lat,ActionGeo_Long,ActionGeo_Type,SOURCEURL,domain,has_casualty_mention,has_repression_mention,date,id,relid,year,active_year,code_status,type_of_violence,conflict_dset_id,conflict_new_id,conflict_name,dyad_dset_id,dyad_new_id,dyad_name,side_a_dset_id,side_a_new_id,side_a,side_b_dset_id,side_b_new_id,side_b,number_of_sources,source_article,source_office,source_date,source_headline,source_original,where_prec,where_coordinates,where_description,adm_1,adm_2,latitude,longitude,geom_wkt,priogrid_gid,country,country_id,region,event_clarity,date_prec,date_start,date_end,deaths_a,deaths_b,deaths_civilians,deaths_unknown,best,high,low,gwnoa,gwnob
+954656721,,no_fetch,20201112,WESTERN SAHARA,FRANCE,MAR,FRA,192,4,-9.5,-3.53200883002208,25.0,-13.5,1,http://www.aps.dz/monde/112688-el-guerguerat-le-maroc-prepare-une-nouvelle-agression-avec-l-assentimentde-la-france-denonce-le-pcf,www.aps.dz,False,False,2020-11-12,391501.0,MOR-2020-1-721-7,2020.0,False,Clear,1.0,331.0,331.0,Morocco: Sahrawi Arab Democratic Republic (Western Sahara),721.0,721.0,Government of Morocco - POLISARIO,108.0,108.0,Government of Morocco,563.0,563.0,POLISARIO,1.0,"""ICH,2021-03-11,Time for International Re-engagement in Western Sahara""",ICH,2021-03-11,Time for International Re-engagement in Western Sahara,UN sources,5.0,Western Sahara,along the sand berm,,,26.013033,-12.096408,POINT (-12.096408 26.013033),167376.0,Morocco,600.0,Africa,2.0,3.0,2020-11-14,2020-11-20 00:00:00.000,2.0,0.0,0.0,0.0,2.0,2.0,2.0,600.0,
+968295474,,no_extract,20210206,NIGERIA,MOROCCO,NGA,MAR,196,4,-9.5,-0.57183702644746,25.0,-13.5,1,https://www.premiumtimesng.com/opinion/440937-a-people-united-conversations-on-western-sahara-by-owei-lakemfa.html,www.premiumtimesng.com,False,False,2021-02-06,385664.0,MOR-2021-1-721-2,2021.0,False,Clear,1.0,331.0,331.0,Morocco: Sahrawi Arab Democratic Republic (Western Sahara),721.0,721.0,Government of Morocco - POLISARIO,108.0,108.0,Government of Morocco,563.0,563.0,POLISARIO,4.0,"""BBC Monitoring Middle East,2021-02-09,BBCM Middle East and North Africa Watchlist for 9 February"";""Agence France Presse,2021-02-11,Morocco PM denounces Polisario 'media war'"";""Agence France Presse,2021-02-09,W.Sahara rebels say 3 Moroccan troops killed in attack"";""Minisère des Armées,2021-04-09, Update on operations from April 2 to 8""",BBC Monitoring Middle East;Agence France Presse;Agence France Presse;Minisère des Armées,2021-02-09;2021-02-11;2021-02-09;2021-04-09,BBCM Middle East and North Africa Watchlist for 9 February;Morocco PM denounces Polisario 'media war';W.Sahara rebels say 3 Moroccan troops killed in attack; Update on operations from April 2 to 8,The Sahrawi People's Liberation Army,2.0,Akka town,"near the Moroccan town of Akka, close to the Algerian border
+
+Ouarkziz",Souss-Massa region,Tata province,29.38914,-8.2549,POINT (-8.2549 29.38914),171704.0,Morocco,600.0,Africa,1.0,1.0,2021-02-08,2021-02-08 00:00:00.000,0.0,0.0,0.0,0.0,0.0,3.0,0.0,600.0,
+970775866,,no_fetch,20210221,PRISON,,,,1822,4,-9.0,-7.20338983050847,25.0,-13.5,1,https://www.aps.dz/monde/117938-pan-african-club-condamne-les-intimidations-exercees-par-le-maroc-contre-les-defenseurs-des-droits-de-l-homme-sahraouis,www.aps.dz,False,False,2021-02-21,385685.0,MOR-2021-1-721-4.1,2021.0,False,Clear,1.0,331.0,331.0,Morocco: Sahrawi Arab Democratic Republic (Western Sahara),721.0,721.0,Government of Morocco - POLISARIO,108.0,108.0,Government of Morocco,563.0,563.0,POLISARIO,1.0,"""BBC Monitoring Middle East,2021-02-25,Pro-Polisario media report high Moroccan army casualties""",BBC Monitoring Middle East,2021-02-25,Pro-Polisario media report high Moroccan army casualties,A pro-Polisario Front media outlet,3.0,Assa-Zag province,Touizgui,Guelmim-Oued Noun region,Assa-Zag province,28.16667,-9.41667,POINT (-9.41667 28.16667),170262.0,Morocco,600.0,Africa,2.0,2.0,2021-02-21,2021-02-23 00:00:00.000,0.0,0.0,0.0,0.0,0.0,5.0,0.0,600.0,
+983160961,"This post will mean little to most readers….but it does to me and since this is my blog I will write on…..
+I have written about the plight of the people of Western Sahara….https://lobotero.com/2018/04/30/western-sahara-update/
+My interests in Western Sahara is personal…..I was there in 1980s and fell in love with the desert and its people…..and ever since I have been watching the international tap-dance being done by the West to prevent the people from having their country back from Morocco.
+According to a report from Axios, the Biden administration told Morroco that it would not reverse the Trump administration’s move to recognize Morrocan sovereignty over Western Sahara, which was Rabat’s reward for normalizing relations with Israel.
+Sources told Axios that Secretary of State Antony Blinken conveyed the message to Moroccan Foreign Minister Nasser Bourita in a phone call on Friday. A State Department readout of the call did not mention Western Sahara but did say Blinken discussed Morroco’s relationship with Israel.
+“The Secretary welcomed Morocco’s steps to improve relations with Israel and noted the Morocco-Israel relationship will bring long-term benefits for both countries,” the readout said.
+The Trump administration recognized Moroccan sovereignty over Western Sahara in December 2020, making the US the first country to do so.
+Morocco annexed Western Sahara after the Spanish withdrew from the region in 1975. Rabat then fought a war with the Polisario Front, a group that represents the indigenous Sahrawi people, to control the territory until a ceasefire was reached in 1991. Now there are fears that a new war is brewing. Last month, the Polisario Front said its police chief was killed in what could have been a Morrocan drone strike.
+In 1976, the Polisario Front formed the Sahrawi Arab Democratic Republic (SADR), a de facto state in Western Sahara. The SADR is a member of the African Union and maintains diplomatic relations with about 40 UN member states. Currently, the SADR controls about 20 percent of Western Sahara, and Morocco controls the rest.
+President Biden is following through on other Trump-era favors for Arab countries that took steps to normalize with Israel. Biden is going ahead with a massive $23 billion weapons package to the UAE that includes F-35 fighter jets, reaper drones, and missiles.
+(antiwar.com)
+Many of us writers are calling for a re-engagement internationally on the Western Sahara question and the plight of the people.
+The long-dormant conflict between Morocco and the Polisario Front over the disputed Western Sahara territory is showing troubling signs of life. A Polisario blockade of a key artery in the UN-monitored buffer zone triggered a Moroccan military response, after which the Front called off a ceasefire and resumed attacks.
+The last guy as president made a crappy deal on Western Sahara and Biden will leave the deal in place.
+In the last move the Polisario of Western Sahara is demanded a seat in the UN….
+The Polisario Western Sahara separatist group on Monday demanded a United Nations seat for the disputed territory and accused France and Spain of impeding a referendum on self-determination.
+The status of Western Sahara, which the United Nations classifies as a “non-self-governing territory”, has for decades pitted Morocco against the separatist Polisario Front.
+“The Sahrawi state claims its seat at the UN,” said Polisario foreign minister Ould Salek, on behalf the republic declared by the Polisario in 1976.
+The republic, as a founding member of the African Union, “demands its rightful place” among world nations, he told a news conference in Algiers, allies of the Polisario.
+It takes a special kind of hypocrite and spineless cowards to deny a people the right to self-determination.
+The US is a prime kind of cowardice for it preaches democracy and never stands by the demands it makes….the right to self-determination is just a slogan that falls from American mouths.
+New leadership is needed…and NOW!
+I Read, I Write, You Know
+“lego ergo scribo”
+I remember that bitter war, and the mess the Spanish left behind when they pulled out of their former colony.
+Best wishes, Pete.
+You and I may be the only people that remember….chuq
+Great post. I’ve long been a fan of little known, and geographic outliers.
+Thanx…I was there as a researcher for a Spanish newspaper….chuq
+Reblogged this on Ned Hamson's Second Line View of the News.
+THanx my friend….chuq",success,20210404,MORROCAN,POLICE CHIEF,MAR,,190,4,-10.0,-2.62392900856793,25.0,-13.5,1,https://lobotero.com/2021/05/04/western-sahara-2021/,lobotero.com,True,False,2021-04-04,396479.0,MOR-2021-1-721-5,2021.0,False,Clear,1.0,331.0,331.0,Morocco: Sahrawi Arab Democratic Republic (Western Sahara),721.0,721.0,Government of Morocco - POLISARIO,108.0,108.0,Government of Morocco,563.0,563.0,POLISARIO,4.0,"""Agence France Presse,2021-04-07,Polisario says police chief killed in Western Sahara"";""Jeune Afrique,2021-04-09,[Exclusive] Morocco-Sahara: how (and why) the FAR neutralized the head of the Polisario gendarmerie"";""Agence France Presse,2021-04-11,Has Morocco carried out its first drone strike in Western Sahara?"";""Report of the Secretary General S/2021/843,2021-10-01,Situation concerning Western Sahara Report of the Secretary-General""",Agence France Presse;Jeune Afrique;Agence France Presse;Report of the Secretary General S/2021/843,2021-04-07;2021-04-09;2021-04-11;2021-10-01,Polisario says police chief killed in Western Sahara;[Exclusive] Morocco-Sahara: how (and why) the FAR neutralized the head of the Polisario gendarmerie;Has Morocco carried out its first drone strike in Western Sahara?;Situation concerning Western Sahara Report of the Secretary-General,POLISARIO's defence ministry; MINURSO (cannot confirm),2.0,Tifariti village,"Rouss Irni, in Tifariti, located in the north in Polisario-controlled territory",Laâyoune-Sakia al Hamra region,Es-Semara province,26.158757,-10.558116,POINT (-10.558116 26.158757),167379.0,Morocco,600.0,Africa,1.0,1.0,2021-04-06,2021-04-06 00:00:00.000,0.0,3.0,0.0,0.0,3.0,3.0,3.0,600.0,
+1011864078,,no_fetch,20211030,CIVILIAN,MOROCCAN,,MAR,190,4,-10.0,1.34228187919463,25.0,-13.5,1,https://www.aps.dz:443/monde/129634-le-conseil-de-securite-appelle-a-la-reprise-des-negociations-front-polisario-maroc,www.aps.dz:443,False,False,2021-10-30,420096.0,MOR-2021-1-721-6,2021.0,False,Clear,1.0,331.0,331.0,Morocco: Sahrawi Arab Democratic Republic (Western Sahara),721.0,721.0,Government of Morocco - POLISARIO,108.0,108.0,Government of Morocco,563.0,563.0,POLISARIO,2.0,"""Reuters News,2021-11-03,Algerian presidency says three Algerians killed in Moroccan attack -state media"";""Agence France Presse,2021-11-03,Three Algerians killed in strike blamed on Morocco: state media""",Reuters News;Agence France Presse,2021-11-03;2021-11-03,Algerian presidency says three Algerians killed in Moroccan attack -state media;Three Algerians killed in strike blamed on Morocco: state media,The Algerian presidency,4.0,Laâyoune-Sakia al Hamra region,"on the border between Western Sahara and Mauritania
+
+""Bir Lahlou"", on a highway through the part of the Western Sahara controlled by the Polisario Front",Laâyoune-Sakia al Hamra region,,27.8583,-12.20787,POINT (-12.20787 27.8583),169536.0,Morocco,600.0,Africa,1.0,1.0,2021-11-01,2021-11-01 00:00:00.000,0.0,0.0,3.0,0.0,3.0,3.0,3.0,600.0,
+1013996898,"В СТИЛ ПАБЛО ЕСКОБАР: Наркокартел си направи зоологическа градина! Властите в Мексико откриха тигър, пантера и лъв Светът
+СЛЕД ВИЗИТАТА В МОСКВА: Флотът на Страшния съд полетя над САЩ! Петте самолета, пригодени за ядрен апокалипсис, обиколиха страната Светът
+ТРАГЕДИЯТА Е ОГРОМНА: Жертвите на наводнението в Непал са близо 100! 384 туристи, предимно чужденци, са изчезнали (ВИДЕО) Светът
+ПБ обеща стабилност, опозицията - протести. Витанов: Страната ще се управлява по правила, а не по телефон (ОБЗОР) България
+БРОЕНИ МЕСЕЦИ ПРЕДИ ЗИМАТА: България с по-малко газ в хранилищата от средното за ЕС! Някои от съседните ни държави са далеч по-подготвени България
+ПРИЗНАНИЕ: Зеленски награди Надежда Нейнски с орден „Княгиня Олга“! Сред мотивите са подкрепата за суверенитета и териториалната цялост на Украйна
+ЗАРАДИ ЗАБАВЯНЕ: България ще поиска неустойка за изтребителите F-16! САЩ отказаха да ни предоставят самолети втора употреба, Швеция не дава „Грипен“ България
+ТРЪМП: Посещението на шефа на ЦРУ в Русия може да доведе до резултати! Визитата му е донякъде рутинна, обясни американският президент Светът
+СЛЕД СМЪРТТА НА ДЕТЕ: Прокуратурата разследва чиновник заради лиценз на зъболекарски кабинет. Проверяват как се е осъществявал контролът върху разрешението за лечебна дейност България
+ЗДРАВНИЯТ МИНИСТЪР КЪМ КУНЧЕВ: Чистка няма! Общата администрация – счетоводители, юристи, финансисти няма да са в такъв обем
+ТРАГЕДИЯ: Откриха тялото на издирваното седемгодишно момченце в Созопол! Бащата влязъл във водата с две от децата си, докато обръщал внимание на едното - другото било повлечено от течението България
+Пилотът Йовко Йоцев пред „Телеграф“: Проблемите с GPS сигнала са на всеки втори полет. Екипажите тренират как да реагират Общество
+ЗАРАДИ ТЪРГОВСКАТА ВОЙНА С КАНАДА: Тоалетната хартия в САЩ поскъпва! Торонто отвръща на митата на Тръмп, налага тарифи на близо 900 продукта Светът
+Кунчев след оставката: Невъзможно е да участвам в разрушаването на здравната система. Няма да наблюдавам безпристрастно разпада, каза той България
+ДИМИТЪР СТОЯНОВ: Всички открити дронове не носят боеприпаси! Задължително трябва да се вземат мерки за безопасност, алармира военният министър (ВИДЕО)
+Главният здравен инспектор доц. Ангел Кунчев подаде оставка. Той напуска заради пенсионна възраст и реформа Здраве
+Бенямин Нетаняху: Никакво споразумение с тези диваци в Иран. САЩ няма да постигнат нищо с натиска си, заяви иранският президент Масуд Пезешкиан Светът
+Стоян Колев обяви, че се връща у нас! Арестантът се връща. България ще тръгне напред, заяви ТикТокърът България
+Хванаха мъж, бягал от затвора четири пъти. Последният път счупил решетките и се спуснал по чаршафи Светът
+Парамедиците настояват за задължително обучение по спешна помощ в болниците за рехабилитация България
+ГОРДОСТ: 10-годишно момче се превърна в герой на АМ „Тракия“. Малкият юнак смени гума, за да спаси своята баба (СНИМКА) България
+НС одобри придобиването на 7 минни ловци от Нидерландия и Белгия. Първият акостира у нас още тази есен България
+КАКВО СЕ СЛУЧВА? Трети дрон изплува на Черноморието ни! Това е поредният безпилотен летателен апарат в страната ни за броени часове (ВИДЕО) България
+Френски съд призна рака на гърдата на стюардеса за професионално заболяване. Победата на Софи Лено отваря вратата за искове Светът
+Песков: Шефът на ЦРУ се срещна с руските служби, не с Путин. Разговорите са проведени с разузнаването, потвърди говорителят на Кремъл Светът
+Обмислят промяна във финансирането на училищата. На фокус ще са резултатите и напредъкът на учениците България
+Еминем публикува трогателно писмо от Доли Партън. Рапърът скърби за отишлата си от този свят кънтри икона
+Камион блъсна и уби жена на кръстовище във Варна. Тя е пресичала на зелен сигнал на светофарната уредба България
+Седемгодишно дете изчезна във водите край Созопол! Водолази и дрон претърсват плаж Хармани край морския град България
+Огромна вълна отнесе цели села в Непал! Наводнението унищожи къщи и инфраструктура, властите все още нямат точни данни за загиналите и пострадалите (ВИДЕО) Светът
+ИЗВЪНРЕДНО: Дроновете изплували край Варна се оказаха ДВА! Военни и граничари блокираха ивицата (ВИДЕО + СНИМКИ)
+Зеленски награди Илон Мъск с „Орден на свободата“. Въоръжените сили на Украйна използват Starlink Светът
+Тома Биков: Това правителство е съставено от констататори. България изпуска възможност за промяна, споделя депутатът България
+Инжекциите за отслабване: Революция или бомба със закъснител. Дали тези медикаменти са медицински пробив или крият опасности, които потребителите подценяват България
+Автовоз блокира част от международния път София - Букурещ между Русе и Дунав мост. Трафикът е интензивен (ВИДЕО)
+Три села в община Струмяни още са без вода след пороя. Военни помагат за разчистването на тоновете кална маса България
+Маскирана банда преби непълнолетно момче. Агресивна хулигани нападнаха младеж в училищен двор България
+Тийнейджър е намушкан след разпра с гайдар на алеята във Варна. Младежът е в болница след жестокото нападение с нож България
+КРАЙ: Доналд Тръмп затвори вратите за имигранти в САЩ. Вашингтон спря глобално интервютата за визи заради обучение Светът
+ДЕН ТРИ: Продължава мащабната акция за изчезналия мъж край Пещера. Спасителни екипи и кучета претърсват коритото на Стара река
+Тройно по-малко джаджи от Китай. Експертът Жанет Найденова: Имаме вече малко по-честна конкуренция България
+Луксозният живот на братята Тейт бил пълна фалшификация! Милионите на обвинените инфлуенсъри се оказаха сценичен реквизит Светът
+Първи със западнонилска треска у нас! 63-годишен от Пловдив е с неврологично усложнение, бил в Италия и по нашето море Здраве
+Откриха и извадиха дрона от морето край Царево. Безпилотният летателен апарат е бил изхвърлен от вълните край скалите в залив в района България
+Шефът на ЦРУ посетил Москва за тайни преговори! Посещението на Джонатан Ратклиф идва на фона на забилите мирни преговори за Украйна Светът
+Демерджиев: Заглушителят в „Драгалевци“ е бил под политическа протекция. Работил е повече от година, части от апаратурата са свалени преди акцията, заяви вътрешният министър България
+Радостин Василев се кандидатира за президент. За негов кандидат за вицепрезидент е определен Красимир Манов България
+Системата „бонус-малус“ променя цените на „Гражданската отговорност“. Застрахователите сами определят критериите за рисковите шофьори
+ПРОБИВ: Учени откриха начин за възстановяване на увредено сърце със стволови клетки. Терапията помогна на пациентите да понасят по-добре физическата активност Здраве
+ОКОНЧАТЕЛНО: Парламентът затегна примката около чиновниците с тест за почтеност! Държавните служители минават през строг тест и получават хоум офис България
+СЛЕД КАТО СЕ СКАРА С КАНАДА: Тръмп иска да преименува езерото Онтарио. Не желае да има нищо общо със съседите си Светът
+Фиркан грък отнесе глоба за яздене на кон! На ездача са му били отнети и девет точки от шофьорската книжка
+„Гражданската“ и „Автокаското“ взеха главите на зам.-здравен министър и шефове на дирекции. Катя Ивкова поиска оставките им заради линейките България
+ЗАРАДИ СЪБОРЕНО РОМСКО СЕЛИЩЕ: Европейският съд по правата на човека осъди България! Страната ни не е гарантирала правото на личен и семеен живот на ищците България
+ТОВА НЕ СЕ ВИЖДА ВСЕКИ ДЕН: Самолет блъсна човек на летище! Машината го ударила, докато се движела назад Светът
+Костадинов: Управляващите поставиха националната сигурност под сериозна заплаха. Американците дойдоха, когато поискаха, и си тръгнаха, когато поискаха, посочи лидерът на „Възраждане“
+ПРЕДИ ВНЕЗАПНАТА СИ СМЪРТ: Собствениът на OnlyFans получил 700 млн. долара! Платформата отчете изключително силна финансова година Светски",success,20211112,MOROCCAN,ALGERIAN,MAR,DZA,190,4,-10.0,-3.03398058252427,25.0,-13.5,1,https://politika.bg/bg/a/view/dokyde-moje-da-stigne-naprejenieto-mejdu-aljir-i-maroko-96162,politika.bg,False,False,2021-11-12,423699.0,MOR-2021-1-721-7,2021.0,False,Clear,1.0,331.0,331.0,Morocco: Sahrawi Arab Democratic Republic (Western Sahara),721.0,721.0,Government of Morocco - POLISARIO,108.0,108.0,Government of Morocco,563.0,563.0,POLISARIO,1.0,"""Crisis Watch,2021-12-01,Western Sahara NOVEMBER 2021""",Crisis Watch,2021-12-01,Western Sahara NOVEMBER 2021,Polisario,2.0,Mijik village,"Miyek area, Polisario-controlled Western Sahara",Dakhla-Oued Ed-Dahab region,Oued Ed-Dahab province,23.446111,-12.826667,POINT (-12.826667 23.446111),163055.0,Morocco,600.0,Africa,2.0,2.0,2021-11-14,2021-11-15 00:00:00.000,0.0,0.0,0.0,0.0,0.0,11.0,0.0,600.0,
+1021966387,"فوراين بوليسي: المغرب معزول بين حلفائه التقليديين عكس ما يروجه نظامه
+قالت مجلة فوراين بوليسي الأمريكية الشهيرة، إن المغرب معزول بين حلفائه التقليديين عكس ما يروج له نظام المخزن.
+وأوضحت المجلة في مقال لها بأن المغرب كان لفترة طويلة، محبوبًا في دوائر السياسة في واشنطن، لكن اليوم فإن الإجماع الأمريكي الذي كان لا يتزعزع من الحزبين بشأن المغرب قد تحول بعيدًا عن الدعم الثابت.
+وأضافت المجلة أن الولايات المتحدة ليست الدولة الوحيدة التي واجه المغرب معها خسائر دبلوماسية في الآونة الأخيرة، بل رسمت العناوين الرئيسية صورة مقلقة لتراجع الدبلوماسية المغربية وقد ترك هذا البلاد معزولة نسبيًا، حتى بين حلفائها التقليديين.
+وذكرت الصحيفة أنه في مارس 2021 ، قطع المغرب اتصالاته الدبلوماسية الرسمية مع ألمانيا بشأن سلسلة مما وصفه بـ “الخلافات العميقة”.
+وسحب المغرب في ماي 2021، سفيره لدى اسبانيا و خففت القيود على الحدود مع مدينة سبتة الاسبانية، مما تسبب في تدفق آلاف المهاجرين كثير منهم غير المصحوبين القصر، إلى الجهة الإسبانية والاتحاد الأوروبي.
+وتابعت المجلة أن هذه الخطوة دفعت البرلمان الأوروبي إلى إصدار قرار يعتبر أن المغرب ينتهك اتفاقية الأمم المتحدة لحقوق الطفل. في جويلية 2021.
+دبلوماسي مغربي: دبلوماسيتنا تعيش أسوء أيامها منذ الاستقلال
+كما نقلت المجلة قول دبلوماسي مغربي مخضرم إن السياسة الخارجية لبلاده، تعيش خلال السنوات أدنى مستوياتها منذ الاستقلال، بسبب العزلة التي تعيشها إقليميا ودوليا، منذ وصول ناصر بوريطة إلى الخارجية، وانتهاج سياسة عدوانية، وذلك رغم ما تروجه وسائل إعلام مقربة منه ومن القصر عن انتصارات وهمية.
+ونقلت مجلة فوراين بوليسي الأمريكية الشهيرة، عن هذا الدبلوماسي تصريحات غير مسبوقة في مقال لها تحت عنوان “المستنقع الدبلوماسي المغربي” يكشف حجم التخبط الذي تعيشه الدبلوماسية خلال هذه المرحلة.
+وقالت المجلة إن هذا الدبلوماسي الذي رفض الكشف عن هويته خوفا من الانتقام أكد إن “هناك إجماع عام بين الدبلوماسيين السابقين والحاليين على أن الدبلوماسية المغربية وصلت إلى أدنى مستوياتها منذ الاستقلال” . ووصف الدبلوماسية المغربية الحالية في كلمتين: “غير منتظمة وهزيلة”.
+وحسبه “إلى غاية سنوات قليلة ماضية، كانت قرارات السياسة الخارجية نتيجة لعمل جماعي من المستشارين الذين يقدمون توصياتهم إلى الملك محمد السادس”.
+وأضاف: تم الآن طرد العديد من كبار المسؤولين الذين كان الملك يصغي إليهم، مما خلف فراغا ترك العديد من الدبلوماسيين السابقين محبطين وقلقين من أن المغرب يسير في مسار سياسة خارجية مقلقة”.
+وقالت المجلة إن وزارة الخارجية المغربية لم ترد على طلبها التعليق على هذه التصريحات.
+The once unshakable bipartisan U.S. consensus on Morocco has shifted, @S_Errazzouki writes.https://t.co/v9QLiInn5G
+— Foreign Policy (@ForeignPolicy) January 4, 2022
+وأوضحت إن خلاصة هذه المرحلة، هي تأكيد “تدهور السلك الدبلوماسي المغربي الذي كان ديناميكيًا في يوم من الأيام بعد تعيين ناصر بوريطة، وهو بيروقراطي صغير لا ينتمي إلى أي حزب، وسيرة ذاتية ضعيفة نسبيًا، كوزير للخارجية المغربية في عام 2017. وخلال فترة ولايته، المغرب ابتعد أكثر من أي وقت مضى عن جيرانه وحلفائه”.
+وأوضحت: تاريخيًا وبحكم موقعه الجغرافي، كانت إحدى نقاط القوة للمغرب دائمًا قدرته على تجاوز موجات المد المتقلبة للدبلوماسية الدولية، لكنه الآن يعيش وسط توترات مع حلفائه وتصاعد العدوان على الخصوم، بما في ذلك تصعيد العنف ضد الجزائر وجبهة البوليساريو.
+وأضافت إن المغرب يواجه خطر الانزلاق الخطر الى العزلة والعداء. من خلال مقاربته العدوانية للدبلوماسية، حيث لا يفعل الكثير لتوجيه المنطقة بعيدًا عن مستقبل قاتم من الصراع وعدم الاستقرار.
+وحسب المجلة، تبدو هذه النظرة قاتمة أكثر عند وضعها جنبًا إلى جنب مع المؤشرات المحلية الأخيرة: فقد وصل معدل البطالة في البلاد إلى أعلى مستوياته منذ عام 2001، وتدهورت حقوق الإنسان وحرية التعبير بسرعة، ويشعر الكثير من الناس بالإحباط من إدارة الدولة للوباء، مما أدى إلى وضع شابته سياسات اللحظة الأخيرة، وسوء التواصل، والتقييد الشديد.
+الاعلام المغربي ينقلب على بوريطة.. وزير صانع للأزمات
+ووجد الإعلام المقرب من المخزن المغربي، صفة جديدة لوزير الخارجية ناصر بوريطة، هي “صانع الأزمات”، في تحول كبير تجاه هذا الدبلوماسي الذي كان يوصف إلى وقت قريب بصانع أمجاد الدبلوماسية الجديدة للمغرب.
+وفي جوان 2021، ورد في صدر الصفحة الأولى لصحيفة “الأسبوع الصحفي” صورة لناصر بوريطة مع عنوان بالبنط العريض: صانع الأزمات، مرفوقا بتعليق، يقول أن المملكة لم يسبق أن عرفت أزمات مع عدة دول في آن واحد، مثل ما يحدث في عهد ناصر بوريطة.
+ولمحت الصحيفة، إلى أن أيام بوريطة أضحت معدودة على رأس الخارجية المغربية.
+أصبح بوريطة صانع الأزمات ولكن في الحقيقة هو عبد مأمور ينفد الأوامر اما أصحاب القرار فهم من وراء الستار. يعطون الأوامر للعثماني ووزراءه والاخفاق والفشل للعبد المامور والنجاح لهم. متى سيفهم المغاربة اننا نحكم من طرف حكومة لم ينتخبها احد ولا تعترف بالبرلمان او الشعب pic.twitter.com/VIF9adcpbl
+— Casa04 (@Casa046) June 3, 2021
+والغريب أن نفس اللهجة، وردت في عدة وسائل إعلام محسوبة على المخزن المغربي، وذلك بعد مدة قصيرة من وصفها بوريطة بصانع أمجاد الدبلوماسية المغربية.
+وتزامن هذا الهجوم على بوريطة مع ضربات دبلوماسية متتالية تلقاها النظام المغربي، جعلت الجميع بمن فيهم الإعلام يفيق من سكرة “الانجازات” الدبلوماسية، بعد تغريدة ترامب التي اتضح أن النظام في الرباط استغلها لترسيم علاقات كانت موجودة مع الكيان الصهيوني.
+وبعد أن أفاق الجميع من نشوة نصر وهمي، اكتشف إن التغريدة ذهبت مع ترامب، وأن خليفته جو بادين تبرأ منها، وظهر ذلك جليا في اجتماع مجلس الأمن الأخير حول الصحراء الغربية ثم نفي البنتاغون مشاركة جنوده في مناورات داخل الأراضي الصحراوية المحتلة في إطار “أسد الصحراء 21”.
+وأمام هذا الوضع، حاول المخزن المغربي توجيه الأنظار بخلق أزمات جديدة من خلال ابتزاز مواقف عدة دول.
+وطال الأمر ألمانيا واسبانيا، لكنه تلقى ردا حازما برفض أي مساومة على موقفها الموافق للشرعية الدولية.
+وكانت آخر حلقة استقبال الرئيس الصحراوي ابراهيم غالي باسبانيا ورفض القضاء تهما وهمية ضده حركتها المخابرات المغربية.
+المغرب.. الهيستيريا الدبلوماسية تطال جنوب إفريقيا بعد ألمانيا وإسبانيا وموريتانيا
+تحولت الآلة الدبلوماسية العدائية للنظام الحاكم في المغرب خلال الأيام الأخيرة إلى دولة جنوب إفريقيا، بعد سلسلة أزمات دبلوماسية مع عدة دول أوروبية مثل ألمانيا وإسبانيا وطالت سابقا موريتانيا والجزائر بسبب مواقفها من قضية الصحراء الغربية.
+وأفادت مصادر إعلامية مغربية رسمية، يوم 26 ماي 2021، أن السفير الممثل الدائم للمغرب بالأمم المتحدة، عمر هلال، ندد في رسالة وجهها، الإثنين، إلى رئيس مجلس الأمن والأمين العام للأمم المتحدة، بـ”الدعم غير المشروط” لجنوب إفريقيا للدولة الصحراوية في نضالها التحرري ضد الاحتلال المغربي.
+وتأتي رسالة الدبلوماسي المغربي على خلفية، رسالة نقلتها الممثلة الدائمة لجنوب إفريقيا، منتصف الشهر الجاري من جبهة البوليساريو إلى رئيس مجلس الأمن الدولي، حول تدهور حقوق الإنسان في الصحراء الغربية المحتلة.
+ولم يتوان المغرب في رسالته، في توجيه الاتهامات إلى جنوب افريقيا، بسبب دعمها لحق للشعب الصحراوي في تقرير المصير، لتصفية اخر استعمار في القارة الأفريقية.
+https://twitter.com/NassimViggo/status/1397465064270188544
+و يأتي هجوم المملكة المغربية على جنوب أفريقيا، أياما قليلة بعد تصريحات رئيس جنوب أفريقيا، زعيم حزب “المؤتمر الوطني الأفريقي” سيريل رامافوزا، التي أكد فيها، دعمه الثابت لحق الشعب الصحراوي غير القابل للتصرف في تقرير المصير، داعياً المجتمع الدولي إلى التعجيل بجهوده الرامية إلى حل النزاع في الصحراء الغربية.
+كما أكدت جنوب أفريقيا على أن المملكة المغربية، وهي عضو في الاتحاد الأفريقي وبالتالي ملزمة باحترام الميثاق التأسيسي وقرارات الهيئة الأفريقية، لا تملك أي سيادة على الصحراء الغربية، وهو الموقف المعترف به في العديد من قرارات الاتحاد الأفريقي والأمم المتحدة وحكم محكمة العدل الدولية الصادر في عام 1975 و قبل جنوب افريقيا، شن المغرب “حملة عدائية هستيرية” ضد عدة دول ترافع لتطبيق القرارات الأممية في الصحراء الغربية، لإنهاء الصراع الذي يهدد الأمن و السلم العالميين.
+https://twitter.com/mustafa57871808/status/1397303727162368000
+المغرب.. “نجاحات” بوريطة تجلب أزمات مع 5 دول وعدة منظمات إقليمية
+ويشيد الإعلام المقرب من القصر الملكي في المغرب بنجاحات دبلوماسية تاريخية حققتها الرباط خلال الأشهر الأخيرة، في ملف الصحراء الغربية، بعد تغريدة دونالد ترامب، تجلت في أزمات دبلوماسية متتالية مع عدة دول من مختلف القارات.
+يعرف المغرب منذ مدة قصيرة سلسلة من الخلافات الدبلوماسية مع عدد من العواصم حيث كانت البداية مع برلين ثم مع مدريد وهذه المرة مع طهران على خلفية نزاع الصحراء الغربية التي تحتلها المملكة منذ عام 1975 بعد رحيل الاستعمار الاسباني.
+وتقول وسائل إعلام مقربة من القصر الملكي المغربي (المخزن) إن ديبلوماسية بلادها حققت نجاحات باهرة خلال الأشهر الأخيرة أبرزها اعتراف إدارة الرئيس الأمريكي السابق دونالد ترامب بسيادة الرباط على الصحراء الغربية المحتلة في صفقة التطبيع.
+لكن هذا الاعتراف سرعات ما تبخر مع وصول إدارة الرئيس الجديد جو بايدن إلى الحكم مطلع سنة 2021، حيث تلتزم الأخيرة صمتا إزاء تغريدة ترامب، وسط مؤشرات بتراجعها عن القرار بعد دعمها مخطط التسوية الأممي خلال الاجتماع الأخير لمجلس الأمن.
+المغرب يطلب نجدة إيباك
+وأمام هذه التطورات هرول وزير خارجية المغرب ناصر بوريطة إلى مؤتمر اللوبي الصهيوني بالولايات المتحدة الأمريكية (إيباك)، لعرض خدمات بلاده في مجال التطبيع.
+ووصل الحد ببوريطة إلى التعهد بأن “المغرب مخلص حتى النهاية في مساعي التطبيع ومستعد إلى الوصول بها إلى أبعد حد ممكن”، في إشارة إلى أن المخزن سيوفي بالتزامه في حال التزم هذا اللوبي بالضغط على إدارة بايدن لتزكية تغريدة ترامب.
+لكن البارز في خرجة بوريطة ونظامه هو تزامن المؤتمر مع اعتداءات ضد الفلسطينيين في القدس والمسجد الأقصى هزت العالم الإسلامي لكن خارجية المغرب اكتفت في بيان لها بالدعوة إلى وقف العنف، علما إن المغرب هي رئيسة لجنة القدس.
+https://twitter.com/AllachiSaid01/status/1391533120063787010
+وبعيدا عن ملف التطبيع، تعيش الدبلوماسية المغربية حالة “هيسيتيريا” غير مسبوقة، حيث حطمت الرقم القياسي في عدد الأزمات الدبلوماسية التي أثارتها في ظرف وجيز، وصلت حد استحداث بدعة مقاطعة نشاطات سفارة دولة أخرى لديها.
+هيستيريا دبلوماسية
+وكان واضحا من خلال هذه التحرشات بدول أخرى أو الألعاب النارية كما أسمتها الخارجية الصحراوية، إن نظام المخزن يريد تغيير طبيعة نزاع الصحراء الغربية من قضية تصفية استعمار مسجلة لدى الأمم المتحدة إلى خلاف حدودي او قضية مختلقة كما يروج له.
+وتحاملت الخارجية المغربية ومعها وسائل إعلام محسوبة عليها وعلى القصر الملكي على عدة دول منها موريتانيا والجزائر والاتحادين الافريقي والأوروبي الى درجة محاولة التدخل في المسائل الداخلية لدول ديمقراطية عريقة مثل ألمانيا واسبانيا.
+لكن هذه الأزمات كشفت حقيقة كانت خافية وهي الطابع العدواني للساسة والدبلوماسية المغربية، فبعد الجزائر طالت هذه الهجومات موريتانيا خلال الأسابيع الماضية بسبب استقبالها مبعوثا للرئيس الصحراوي علما أنها تعترف بالجمهورية الصحراوية وهذا قرار سيادي داخلي.
+وكانت آخر الأزمات التي أثارتها الخارجية المغربية مع إيران، حيث اتهمها بوريطة أمام اللوبي المؤيد للصهيونية (إيباك) بـ”الرغبة في القيام بأنشطة لزعزعة الاستقرار في شمال إفريقيا”.
+وكان واضحا إن استدعاء إيران في قضية الصحراء الغربية في هذا التوقيت، غير منطقي كون الملف الذي تحدث عنه وزير خارجية المخزن طوي قبل سنوات، وواضح إن الهدف هو ركوب موجة العداء لطهران في المنطقة والتي تعد جواز سفر رضا اللوبي الصهيوني.
+وردا على هذه التصريحات قال المتحدث باسم الخارجية الإيرانية ي سعيد خطيب زاده أمس السبت أن “الحكومة المغربية العاجزة عن حل مشاكلها الإقليمية عادت مرة أخرى لتوجيه الاتهامات الواهية التي لا أساس لها إلى الجمهورية الإسلامية، دعما للمشاريع الأمريكية والصهيونية وتهجما على الأنصار الأوفياء للقضية الفلسطينية وحقوقها المشروعة .
+وأعرب خطيب زادة عن أسفه لكون الحكومة المغربية التي تترأس حاليا (لجنة القدس) “تساهم في دعم أهداف أعداء الأمة الإسلامية من خلال صرف الأذهان عن القضية الأولى للعالم الإسلامي وهي مواجهة الاعتداءات الصهيونية على القدس، ودعم حقوق الشعب الفلسطيني في حين أن العالم الإسلامي هو اليوم أحوج الى الوحدة والتضامن “.
+https://twitter.com/AllachiSaid01/status/1391495198019133441
+صفعة اسبانية جديدة
+أما مع إسبانيا فيبدو أن المغرب الذي يستخدم بدلا من ذلك بطاقة الهجرة غير الشرعية للضغط على هذا البلد للاعتراف بمطالبه غير المشروعة بالصحراء الغربية فقد اتخذ خطوة جديدة بعد دخول الرئيس الصحراوي الأمين العام لجبهة البوليساريو ابراهيم غالي إلى المستشفى في إسبانيا.
+ووصل الأمر حد فتح الحدود مع اسبانيا أمام آلاف المهاجرين السريين المغاربة والأفارقة وأغلبهم من الأطفال والنساء، من أجل الضغط على مدريد وأوروبا لتغيير موقفهما من القضية الصحراوية، لكن الجانب الأوروبي رفض أي مساومة بورقة المهاجرين.
+وكانت وسائل إعلام إسبانية قد أعلنت في الأيام الأخيرة أن المحاكم الإسبانية باشرت إجراءات ضد الرئيس الصحراوي بتهمة ارتكاب “جرائم ضد الإنسانية” وهي معلومة مغلوطة كذبتها المحكمة الاسبانية العليا في حين صرحت رئيسة الدبلوماسية الاسبانية ارانشا غونزاليز لايا الامين العام لجبهة البوليساريو من المفترض ان يغادر اسبانيا بعد انقضاء مدة علاجه في المستشفى.
+وأشعل المخزن أيضا ازمة مع المانيا بسبب قضية الصحراء الغربية. ومنذ ان قرر المغرب تعليق كل اتصالاته مع السفارة الألمانية في الرباط في الفاتح مارس لم يصل البلدين لحد الآن الى تفاهم.
+كيف ادبت وزيرة الخارجية الإسبانية رئيس دبلوماسية دولة التطبيع المذل مع الكيان الصهيوني ناصر بوريطة…
+في ردها على المخزن، قالت وزيرة الخارجية الإسبانية، أرانتشا غونزاليس لايا، السبت، إن بلادها ليس لديها ما تضيفه على ماسبق😂 من تصريحات بخصوص الرئيس الصحراوي ابراهيم غالي pic.twitter.com/7oXLAnXlsK
+— 🇩🇿القدس_عاصمه_فلسطين_الأبدية🇵🇸 (@lancerpls) May 9, 2021
+ألمانيا مندهشة
+وردا منها على القرار الاخير للمغرب بسحب سفيره من السفارة المغربية في برلين عبرت وزارة الخارجية الالمانية عن تعجبها يوم الخميس 6 مايو معربة عن عدم علمها المسبق بالقرار الذي اتخذه المغرب.
+وصرح مسؤول في الخارجية الالمانية قائلا “نحن متفاجئون من هذا الإجراء ونقوم بجهود بناءة مع الطرف المغربي بغية ايجاد حل”.
+وبررت المملكة المغربية عبر خارجيتها قرار سحب سفيرتها بالعديد من الاسباب من بينها تحرك ألمانيا بعد اعتراف الرئيس الأمريكي السابق ترامب بسيادة المغرب المزعومة على الصحراء الغربية.
+وتطرقت المانيا الى هذا الاعتراف الذي نال ادانة واسعة من طرف المجتمع الدولي في مجلس الامن الأممي حيث دعت الولايات المتحدة الى التصرف “وفق الشرعية الدولية”.
+ويرى ممثل البوليساريو في اوروبا والاتحاد الأوروبي ابي بشرايا ان هذه “التصرفات غير المحسوبة من طرف المغرب تنم عن خيبته كونه يلفق في كل مرة القصص من اجل ايهام هذه الدول التي عبرت صراحة عن التزامها بالشرعية الدولية”.
+وأضاف المسؤول نفسه أن “سياسة الكذب والابتزاز هي الثابت الوحيد في السياسة الخارجية المغربية”.",success,20220105,MOROCCO,AFRICA,MAR,AFR,190,4,-10.0,-1.38588133391078,25.0,-13.5,1,https://www.echoroukonline.com/%D9%81%D9%88%D8%B1%D8%A7%D9%8A%D9%86-%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D9%8A-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%85%D8%B9%D8%B2%D9%88%D9%84-%D8%A8%D9%8A%D9%86-%D8%AD%D9%84%D9%81%D8%A7%D8%A6%D9%87,www.echoroukonline.com,False,False,2022-01-05,428221.0,MOR-2022-1-721-1,2022.0,False,Clear,1.0,331.0,331.0,Morocco: Sahrawi Arab Democratic Republic (Western Sahara),721.0,721.0,Government of Morocco - POLISARIO,108.0,108.0,Government of Morocco,563.0,563.0,POLISARIO,1.0,"""Crisis Watch,2022-01-01,Western Sahara January 2022""",Crisis Watch,2022-01-01,Western Sahara January 2022,Crisis Watch,5.0,Western Sahara,in UN buffer zone,,,26.013033,-12.096408,POINT (-12.096408 26.013033),167376.0,Morocco,600.0,Africa,1.0,1.0,2022-01-03,2022-01-03 00:00:00.000,0.0,0.0,3.0,0.0,3.0,3.0,3.0,600.0,
+1022361393,"The driving force of Europe
+Explore the best expat health insurance options for Germany, including eligibility for public insurance (GKV) and private coverage (PKV).
+Read more
+Navigate the world of dating in Germany as an expat by understanding the local dating culture, etiquette, faux pas, and more.
+Learn about the German education system, including types of schools, financial aid, educational support, homeschooling, and graduating.
+Find out what you'll take home after tax",success,20220108,RABAT,SPAIN,MAR,ESP,190,4,-10.0,-1.65289256198347,25.0,-13.5,1,https://www.expatica.com/de/uncategorized/morocco-says-german-president-invites-king-to-seal-new-partnership-552743/,www.expatica.com,False,False,2022-01-08,428222.0,MOR-2022-1-721-0,2022.0,False,Clear,1.0,331.0,331.0,Morocco: Sahrawi Arab Democratic Republic (Western Sahara),721.0,721.0,Government of Morocco - POLISARIO,108.0,108.0,Government of Morocco,563.0,563.0,POLISARIO,1.0,"""Crisis Watch,2022-01-01,Western Sahara January 2022""",Crisis Watch,2022-01-01,Western Sahara January 2022,Sahrawi Movement for Peace,2.0,Mehaires village,in eastern Mehaires area in Polisario-held Western Sahara,Laâyoune-Sakia al Hamra region,Es-Semara province,26.134751,-11.06757,POINT (-11.06757 26.134751),167378.0,Morocco,600.0,Africa,1.0,4.0,2022-01-10,2022-01-20 00:00:00.000,0.0,4.0,0.0,0.0,4.0,4.0,4.0,600.0,
+1038367974,,no_extract,20220408,SPANISH,MOROCCO,ESP,MAR,190,4,-10.0,0.48309178743962,25.0,-13.5,1,https://www.msn.com/en-xl/news/other/morocco-spain-mend-ties-after-change-in-policy-on-western-sahara/ar-AAVZwVG,www.msn.com,False,False,2022-04-08,436462.0,MOR-2022-1-721-3,2022.0,False,Clear,1.0,331.0,331.0,Morocco: Sahrawi Arab Democratic Republic (Western Sahara),721.0,721.0,Government of Morocco - POLISARIO,108.0,108.0,Government of Morocco,563.0,563.0,POLISARIO,1.0,"""Agence France Presse,2022-04-12,Algeria accuses Morocco of killing 3 on edge of W. Sahara""",Agence France Presse,2022-04-12,Algeria accuses Morocco of killing 3 on edge of W. Sahara,Media linked to the Polisario independence movement,5.0,Western Sahara,the border between the desert territory and Mauritania,,,26.013033,-12.096408,POINT (-12.096408 26.013033),167376.0,Morocco,600.0,Africa,1.0,1.0,2022-04-10,2022-04-10 00:00:00.000,0.0,0.0,0.0,3.0,3.0,3.0,3.0,600.0,
+1072419718,"جبهة البوليساريو تدين منع طالبتين نرويجيتين من زيارة العيون المحتلة
+أدانت جبهة البوليساريو “بشدّة” منع الاحتلال المغربي الطالبتين النرويجيتين، هيلين لورنتزن ومارتي هيتيرفيك، من التوجّه إلى العيون المحتلة، في إطار دراستهما الأنثروبولوجية للوقوف على أسلوب حياة المجتمع الصحراوي.
+وقال أبي بشرايا البشير عضو الأمانة الوطنية لجبهة البوليساريو، المكلّف بأوروبا والاتحاد الأوروبي في بيان، إنّ:
+هذه الإجراءات، يتبعها الاحتلال المغربي، عندما يتعلق الأمر بالأجانب الذين يريدون الاطلاع على الجزء المحتل من الصحراء الغربية، لمراقبة أوضاع حقوق الإنسان في المنطقة. في مسعى منه لتحويل الإقليم إلى منطقة محظورة، مغلقة أمام أي محاولة خارجية لنقل الشهادات الحيّة، والمحايدة، والموضوعية حول الوضع السائد في الأراضي الصحراوية المحتلة.
+وذكرت البوليساريو في ذات البيان أنه:
+يتمّ بشكل منهجي، منع ممثلي المنظمات غير الحكومية المعنية بحقوق الإنسان أو الصحفيين أو المراسلين أو الباحثين أو البرلمانيين و السياسيين، أو حتى المواطنين البسطاء، من الذهاب إلى الأراضي الصحراوية المحتلة. ويتم طردهم باستخدام العنف، كما كان الشأن في حالة الطالبتين النرويجيتين.
+واستدلت البوليساريو في هذا الشأن بما وقع لستافان دي ميستورا، المبعوث الشخصي للأمين العام للأمم المتحدة، الذي منع من زيارة الأراضي المحتلة ومقابلة الصحراويين الذين يعيشون هناك.
+وتابع البيان:
+منذ عام 2015، تهدف السياسة التي يتبعها الاحتلال المغربي إلى عزل الإقليم عن العالم الخارجي. إضافة إلى اضطهاد المدنيين لمنعهم من سرد الوقائع.
+وهذا بالإضافة إلى سياسة إفراغ المنطقة من سكانها الأصليين، حتى يتسنى للمحتل الاستمرار في استعماره، وسيطرته على الأراضي الصحراوية، ونهب ثروات الإقليم، مع الإفلات التام من العقاب.
+طالبتان نرويجيتان ترويان حادثة طردهما من العيون الصحراوية
+وفي 17 نوفمبر 2022، قامت سلطات النظام المغربي، قبل أيام بطرد طالبتين نرويجيتين من مدينة العيون الصحراوية المحتلة، بعد زيارة لهما في إطار بحث أكاديمي، بشأن التركيبة المحلية للسكان.
+وحسب ما نقلت وسائل إعلام نرويجية، عن الطالبتين بيورغ هيلين لورنتزن ومارتي هيتيرفيك، فإن السلطات المغربية اعتقلت الطالبين النرويجيين بيورغ هيلين لورنتزن ومارتي هيتيرفيك وقامت بترحيلهما من الصحراء الغربية المحتلة.
+بحسب موقع https://t.co/3Q7oDpLrK2، قامت سلطات الاحتلال المغربية بطرد الطالبتين النرويجيتين بيورغ هيلين ومارتي هيتيرفيك من الأراضي الصحراوية المحتلة، لأنها تخاف أن يطلع العالم على العواقب الرهيبة لاستمرار احتلالها غير الشرعي لأجزاء من #الصحراء_الغربية.https://t.co/Msi7miTKWI
+— Amb. Sidi Omar (@SidiOmarNY) November 15, 2022
+وحسب رواية الطالبتين، فإنهما كانتا في فندق بالعيون، عندما طلب منهما رجال أمن بزي مدني ركوب سيارة أجرة ومغادرة المدينة نحو أغادير، قبل ترحيلهما عبر المطار.
+Bjørg (23) og Marte (23) ble i går deportert fra okkuperte #VestSahara 
+“Vi fikk ikke se noen identifikasjon av dem. Vi måtte stole på at de var fra myndighetene. Det var en mann i dress og to andre i vanlige klær, forteller Marte Hettervik til NRK” https://t.co/5yxdGNQCkG
+— Vest-Sahara (@vestsahara) November 15, 2022
+وحسب نفس المصدر، فإن الطالبتين تدرسان الأنثروبولوجيا الاجتماعية في جامعة بيرغن، وسافرتا إلى الصحراء الغربية، لجمع معلومات حول طبيعة المنطقة وطريقة عيش سكانها وتركبيتها الديموغرافية.
+Två norska medborgare utvisades från ockuperade Västsahara idag.
+Marte Hettervik. 23 år.
+Bjørg Helene Lorentzen, 23 år. Båda studerar socialantropologi på universitetet i Bergen.@NorwayUN, @NorwayMFA, @TobiasBillstrom, @SweMFA, @JanKEliasson pic.twitter.com/VTqhYFIrcB
+— Västsaharakommittén (@SweWScommittee) November 14, 2022
+وسبق للنظام المغربي الذي يروج لطرح مفاده أن سكان الأراضي الصحراوية المحتلة، يعيشون الرفاهية ويرفضون الاستقلال، أن رحل عدة ناشطين أجانب من المنطقة لمنع نقل الحقائق، كما رفض حتى زيارة المبعوث الأممي ستافان دي ميستورا الذي برمج لقاءات مع المجتمع المدني الصحراوي.
+النظام المغربي يواجه 4 اتهامات بتعذيب ناشطين صحراويين أمام الأمم المتحدة
+ويواجه النظام المغربي أربع شكاوى أمام لجنة مناهضة التعذيب التابعة للأمم المتحدة، تتّهم الرباط بـ”تعذيب” ناشطين صحراويين.
+وحسب وسائل إعلام دولية، فقد رفعت الشكاوى من طرف المؤسسة الدولية لحقوق الإنسان، ورابطة حماية السجناء الصحراويين بالسجون المغربية، ومنظمات أخرى.
+وذكرت المنظمات في بيان مشترك، أن الصحراويين الأربعة الذين تقدموا بالشكاوى، وهم محمد لمين هدي، وحسن الداه، وعبد المولى الحافظي، ومحمد باني، “معتقلون منذ 6 إلى 12 سنة، بناء على اعترافات انتُزعت منهم تحت التعذيب”.
+واعتبرت المنظمات أن هذه الشكاوى التي قدّمت أمام لجنة مناهضة التعذيب التابعة للأمم المتحدة، “تجسّد الأمل بالإقرار بالتعذيب الذي تعرّض له هؤلاء في انتهاك للالتزامات الدولية للمغرب”.
+وتؤكد المنظمات أن “مقدّمي الشكاوى أجبروا على توقيع اعترافات انتُزعت منهم تحت التعذيب، عبر العنف الجسدي والنفسي وأيضا الجنسي، من طرف قوات الأمن المغربية”.
+“ولا يزال مقدّمو الشكاوى يتعرّضون يوميا للتعذيب وللمعاملة غير الإنسانية. إذ يقبع البعض منهم في الحبس الانفرادي منذ سنوات على غرار محمد لمين هدي”، يضيف البيان.
+وصلت إسبانيا.. سلطانة خيا تنتصر على آلة قمع النظام المغربي (فيديو)
+وفي 5 جوان 2022، طالبت جبهة تحرير الساقية الحمراء ووادي الذهب (بوليساريو) المجتمع الدولي بتوفير العلاج والحماية اللازمة للناشطة الحقوقية الصحراوية، سلطانة خيا، التي وصلت إلى إسبانيا لتلقي الرعاية الطبية.
+ووصلت خيا جوا إلى مدينة اليكانتي الساحلية، مساء الجمعة، قادمة من جزر الكناري التي كانت قد وصلتها في الأول من جوان بعدما سُمح لها أخيرا بمغادرة منزلها في العيون، كبرى مدن الصحراء الغربية.
+وبعد 16 شهرا من الإقامة الجبرية في الصحراء الغربية، ستخضع الناشطة في مجال حقوق الإنسان للعلاج.
+#سلطانة_خيا اسم على مسمى بالفعل هي سلطانة #الصحراء_الغربية 🇪🇭
+بمجابهتها العدو 🇲🇦وكسرها حصاره وأنفه  باالنضال والتضحية منا ومن كل الشعوب الحرة ألف تحية ✌️✌️@Sultanakhayya1#SaharaLibre#SaharaOccidental#westernsahara pic.twitter.com/2RA0GIaMBy
+— Leila lahsen 🇪🇭 ليلى 🇩🇿🇨🇺🇿🇦🇻🇪 (@layla_lahsen) June 4, 2022
+وقالت جبهة البوليساريو في بيان نشرته وكالة الأنباء الصحراوية إن ما تعرضت له الناشطة “جريمة ضد الإنسانية”، وأنها ظلت “تطالب المجتمع الدولي توفير الحماية لها و للمدنيين الصحراويين، و تطالب أيضا بضرورة العلاج و فتح تحقيق دولي”.
+وقال ممثل جبهة بوليساريو في إسبانيا، عبدالله العرابي، لوكالة فرانس برس إن خيا وصلت إلى أليكانتي “حيث ستخضع لفحوص طبية”. ولم يكشف عن مدة بقائها في إسبانيا.
+وأظهرت مشاهد نشرت على منصات التواصل الاجتماعي وصولها إلى المطار حيث كان في انتظارها حشد يحتفل برفع الأعلام وإطلاق الهتافات والزغاريد.
+کان هذا الیوم استقبال اللبٶة سلطانة خیا وما ادرك ما سلطانة خیا تحية نضالیة لي هذه المراءة الحدیدة pic.twitter.com/PqrDSTmkEt
+— سيدي محمد مولاي أحمد (@P3bHnz5sEx2hEIX) June 3, 2022
+وقال فريقها القانوني في بيان إن خيا تعرضت “لعدد لا يحصى من انتهاكات حقوق الإنسان” خلال خضوعها للإقامة الجبرية وتتواجد في إسبانيا سعيا لتلقي العلاج من جروحها.
+كانت وزارة الخارجية الأميركية استنكرت محنتها وكذلك العديد من مجموعات حقوق الإنسان الدولية مثل مفوضية الأمم المتحدة السامية لحقوق الإنسان و”هيومن رايتس ووتش” و”فرونت لاين ديفندرز” (المدافعون في الخطوط الأمامية) وغيرها.
+إستقبال الجالية الصحراوية للمناضلة سلطانة خيا عصر اليوم بمطار Alicante الإسبانية#الصحراء_الغربية المحتلة pic.twitter.com/JMNAMnG7x7
+— 🇪🇭R.A.S.D🇩🇿🇵🇸♥️ (@tDcNsV4VVrHqGgD) June 3, 2022
+وقالت منظمة العفو الدولية العام الماضي إن قوات الأمن المغربية عرّضت سلطانة خيا “مراراً للتعذيب أو غيره من ضروب سوء المعاملة، بما في ذلك الاعتداء الجنسي والاغتصاب”.
+وتترأس خيا “رابطة الدفاع عن حقوق الإنسان ومكافحة نهب الموارد الطبيعية”، كما تنتمي إلى “الهيئة الصحراوية لمناهضة الاحتلال المغربي” (إيساكوم) المؤيدة لحق تقرير المصير من دون عنف للصحراويين.
+“صوت نساء خيا هو صوت نساء العالم” عنوان ندوة رقمية بلمسة دولية تضامنا مع حصار منزل عائلة أهل خيا، يوم السبت 28 مايو 2022 على منصة زووم بحضور نساء حول العالم يمثلن منظمات دولية و ستبث حصريا على صفحة الحملة “together to end the siege of the khaya family “ #إرادتي_ليست_جدار pic.twitter.com/U4JNFSHiS3
+— الحساب الرسمي سلطانة سيد إبراهيم خيا Sultana Khaya (@Sultanakhayya1) May 26, 2022
+الصحراء الغربية: شاحنة ترتطم بمنزل سلطانة خيا
+ويوم 16 ماي 2022، تعرضت الناشطة الصحراوية سلطانة خيا، إلى اعتداء من قبل النظام المغربي بعد استهداف منزلها بشاحنة تابعة للشرطة المغربية ارتطمت به ليلا.
+ودعت الجمهورية العربية الصحراوية المجتمع الدولي والمنظمات الدولية إلى العمل من أجل كشف ملابسات محاولة الاغتيال التي تعرضت لها سلطانة خيا وعائلتها ببوجدور المحتلة ومتابعة منفذيها و الأجهزة الأمنية لنظام المخزن الذي يقف وراءها.
+🔴خطوة خطيرة و حادثة تورط الإحتلال المغربي في نفي عائلة أهل خيا 
+في محاولة جبانة وفاشلة للإحتلال المغربي. بمدينة بوجدور المحتلة الصحراء الغربية و بعد منتصف الليل،  الإثنين 16/05/2022
+قوات الاحتلال المغربي تقوم بتهديم جزئي لمنزل عائلة المدافعة عن حقوق الإنسان سلطانة خيا pic.twitter.com/WlXwkTQy8H
+— mahyuba (@mahyuba2) May 16, 2022
+وعبرت وزارة شؤون الأرض المحتلة والجاليات في بيان, عن شديد الإدانة لهذه الأعمال العدائية الجبانة,معتبرة إياها “محاولة اغتيال لا لبس فيها”,حيث استهدفت شاحنة تابعة للشرطة المغربية منزل خيا “بالدهس والارتطام” .
+وأضافت إنه اعتداء على الصحراويات, سلطانة وأختها الواعرة, و في نفس الوقت تخويف للناشطين الأجانب المتضامنين مع النشطاء الصحراويين, موضحة أن الاعتداء المغربي على الناشطات الصحراويات يعد محاولة قطع الطريق أمام مؤيديهم الأجانب لمنعهم من الانضمام إليهم.
+في منزل عائلة المناضلة الكبيرة سلطانة خيا توجد الناشطة الأمريكية روث ماكدونو المضربة عن الطعام منذ ١١ يوماومواطنها الامريكي المضرب عن الطعام منذ 4 ايام مناصرين للشعب الصحراوي ومحاولة الإحتلال المغربي هدم المنزل على رؤسهم تعتبر جريمة مكشوفة الأبعاد pic.twitter.com/morkESOlTC
+— #حسان_بوليساريو_تنتصر@ (@hassanmuilidali) May 16, 2022
+وأوضح البيان أن عملية دهس منزل العائلة بشاحنة ثقيلة تمثل “استهداف ممنهج وعن سبق إصرار,يهدف بشكل مباشر إلى تخويف و تهديد عائلة سلطانة خيا و من معها من الناشطين الأجانب”, منهم الحقوقية الأمريكية ,روث ماكدونو,التي تدهورت حالتها الصحية بعد دخولها في إضراب تضامنا مع الناشطين الصحراويين.
+حاول الاحتلال المغربي ليلة البارحة تنفيذ جريمة اغتيال جماعية ضد سلطانة و الواعرة خيا و أفراد عائلتهم بالإضافة إلى المواطنين الأمركيين المقيمين بالمنزل منذ قرابة الشهرين و المضربين عن الطعام احتجاجا على مواصل المغرب جرائمه ضد هذه العائلة.
+1/4 (يتبع) pic.twitter.com/Yipuslxuoo
+— Anna Habibi🇪🇭 (@AnnaSahrauia) May 16, 2022
+قضية سلطانة خيا: ناشطة أمريكية تخوض إضرابا عن الطعام ببوجدور
+ومنذ 9 ماي 2022، تواصل المتضامنة الأمريكية روث ماكدونو إضرابها عن الطعام لليوم السادس على التوالي ببوجدور الصحراوية دعما للناشطة الصحراوية سلطانة خيا القابعة وعائلتها رهن الإقامة الجبرية منذ أكثر من سنة.
+وقالت الهيئة الصحراوية لمناهضة الاحتلال المغربي (إيساكوم) في بيان “المخاوف من تدهور الوضعية الصحية للمتضامنة الأمريكية جراء مضاعفات الإضراب عن الطعام الذي تخوضه محملة سلطات الاحتلال المغربي المسؤولية عن حياتها (المتضامنة الأمريكية)”.
+Sahrawi activist enlists Americans to stop police beatings and sexual assault https://t.co/dJiJHsQTNE #politics #feedly
+— Leicester Worker (@LeicesterWorker) May 5, 2022
+Los activistas de #USA que acompañan a #SultanaJaya, #RuthMcDonough y su compañero entran en #huelga de hambre en #solidaridad con activistas saharauis de #DerechosHumanos y el pueblo saharaui a fin de llamar la atención hacia el sufrimiento que padece bajo #ocupación marroqui pic.twitter.com/F5hHSU1Jen
+— Jadiyetu El Mohtar (@Jadiyetumohtar) May 5, 2022
+كما جددت الهيئة بالمناسبة استنكارها الشديد “للانتهاكات المغربية الجسيمة التي ترتكبها بحق المناضلة سلطانة خيا وعائلتها، ولاسيما استمرار الحصار البوليسي وحرمان المواطنين من زيارتهم والاعتداء عليهم بالضرب، وجملة الإجراءات التي تنتهك حقوق الإنسان”.
+Desde ayer sabemos que Ruth McDonough y Tim Pluta han comenzado una huelga de hambre por la situación de la activista saharaui Sultana Khaya y nos piden ayuda y difusión. Todo mi apoyo y respeto, compañero. pic.twitter.com/XVwjGNx30f
+— C (@carmenbellas) May 5, 2022
+⭕️المتضامنة الأمريكية🇺🇸 ” روث ماكدونو” مع عائلة #أهل_خيا🇪🇭 ببوجدور المحتل تخوض إضراباً عن الطعام https://t.co/K1FOug8m9C pic.twitter.com/btjAXp6bOA
+— RASD🇪🇭TODAY (@RasdToday) May 4, 2022
+وكانت روث ماكدونو قد شرعت في الرابع ماي الجاري بمدينة بوجدور المحتلة في إضراب عن الطعام من أجل مؤازرة ودعم خيا وعائلتها وجميع أفراد الشعب الصحراوي وللفت الانتباه إلى ما يرتكبه المغرب بالأراضي الصحراوية المحتلة من انتهاكات وجرائم بحق الصحراويين.
+Saultana Sidbrahim Khayya 
+Ruth McDonough
+Tim Pluta MD, PhD#SaharaOccidental#Boujdour pic.twitter.com/miYkYZAiDp
+— Anna Habibi🇪🇭 (@AnnaSahrauia) May 4, 2022
+وكان وفد أمريكي قد تمكن في الـ 16 مارس الماضي، من كسر الحصار الأمني الذي فرضته قوات الاحتلال المغربية على المنزل العائلي للناشطة الحقوقية الصحراوية سلطانة خيا، بمدينة بوجدور المحتلة منذ أكثر من عام.
+وفي هذا الإطار، أشارت الهيئة الصحراوية إلى أن “المتضامنين الأمريكيين تحدوا الصعوبات والعراقيل ووصلوا إلى منزل خيا، من أجل دعمها والمطالبة برفع الحصار عنها وتمتيعها بحقوقها”.
+وبعد تجاهل السلطات المغربية وصمت المجتمع الدولي وتواطئ بعض الدول التي تدعي الدفاع عن حقوق الإنسان – يضيف بيان الهيئة – “شرعت المتطوعة الأمريكية روث ماكدونو في خوض إضراب عن الطعام احتجاجا على استمرار حصار منزل المناضلة سلطانة وعائلتها دون سند أو مسوغ قانوني”.
+أمنيستي تطلق حمة الـ 10 آلاف توقيع لإنهاء “كابوس سلطانة خيا”
+ويوم 12 أفريل 2022، أعلنت منظمة العفو الدولية عن إطلاق حملة لجمع التوقيعات، من أجل توجيه رسالة إلى الحكومة المغربية بشأن الانتهاكات التي تتعرّض لها المناضلة الصحراوية سلطانة خيا.
+وقالت المنظمة في بيان، إنّها ستوجّه رسالة إلى رئيس الحكومة المغربية عزيز أخنوش تطالبه بالتحقيق في الإقامة الجبرية غير القانونية التي تخضع لها سلطانة خيا.
+وتهدف المنظمة إلى جمع 10 آلاف توقيع عبر موقعها الإلكتروني، من أجل أن “لا يمرّ الكابوس الذي عاشته سلطانة”، وهي رئيسة رابطة الدفاع عن حقوق الإنسان ومكافحة نهب الموارد الطبيعية في الصحراء الغربية، “من دون عقاب”.
+وذكرت منظمة العفو الدولية أن سلطانة، تعرّضت إلى الاغتصاب والاعتداء الجسدي في منزلها رفقة عدد من أفراد عائلتها.
+#StandUp4HumanRights
+A Sultana Khaya la violaron por ser activista saharaui.
+¡Pedimos justicia! @UN @ICRC @mbachelet @PMaurerICRC @amnesty @UNHumanRights @UN_HRC  https://t.co/dJwU0eMka4 vía @amnistiaespana
+— Ahmed Batah (@AhmedBAbdeslam) April 12, 2022
+أمريكيون يكسرون حصار النظام المغربي على المناضلة سلطانة خيا
+وفي 17 مارس 2022، تمكن وفد أمريكي من كسر الحصار الأمني الجائر الذي فرضته قوات الاحتلال المغربي على المنزل العائلي للناشطة الحقوقية الصحراوية سلطانة خيا بمدينة بوجدور المحتلة منذ أكثر من عام.
+وأفاد مركز عمل حقوق الإنسان الأمريكي في بيان له إن متطوعين من الولايات المتحدة، على غرار روث ماكدونو وأدريان كين، قد وصلوا إلى المنزل العائلي لسلطانة خيا، وهم حاليا ضيوف عندها، “لحماية العائلة من انتهاكات حقوق الإنسان وكسر الحصار على المنزل”، الذي استمر قرابة 500 يوما من طرف قوات القمع المغربية.
+وأبرز مركز عمل حقوق الإنسان أنه “لأول مرة، و بعد مرور أزيد من سنة على الحصار المفروض على عائلة المناضلة الصحراوية سلطانة خيا، تمكن أربعة ممثلين لمنظمات الدفاع عن حقوق الإنسان من الولايات المتحدة الأمريكية من الاطلاع على واقع الحصار غير القانوني على عائلة أهل خيا ودخلوا المنزل”.
+https://twitter.com/nadisou6965/status/1504247119128977408?fbclid=IwAR3Ok6_hSjTjj-E6A3D37KNfjv_ZZS59Uz311r_2yz4t26I1_MqW679sd7Q
+وقالت الناشطة الحقوقية الصحراوية سلطانة خيا في اتصال مع وكالة الأنباء الجزائرية، إن “الوفد الحقوقي الذي كسر الحصار اليوم عن منزلها، يتكون من رجلين وامرأتين بينهم طبيب، جاؤوا للتضامن معها ضد ما تتعرض له من قمع على يد القوات المغربية، في انتهاك للقانون الدولي”.
+ويطالب مركز عمل حقوق الإنسان بوضع حد لعمليات الاغتصاب ومحاسبة المتورطين وضمان حرية الحركة لعائلة خيا وجميع الزوار، كما يدعم المركز الحقوقي الأمريكي، مطالب سلطانة خيا وعائلتها، بما في ذلك إزالة القوات والحواجز حول منزلهم و حيهم، ومعالجة خزان المياه الملوثة.
+https://twitter.com/___sssSsss____/status/1504234200966172675?fbclid=IwAR2ryOdZO-yEAsbphnMeG4740dujJGe6qSsruyuvKX5J_McdJ9YjcJ5K9TM
+وكانت قوات القمع المخزنية قد فرضت الإقامة الجبرية على المنزل العائلي للمدافعة عن حقوق الانسان سلطانة خيا منذ شهر نوفمبر 2020، حيث تعرضت الأسرة لانتهاكات جسيمة لحقوق الانسان، بما في ذلك اقتحام المنزل و الاعتداء الجنسي على سلطانة خيا وشقيقتها، والحقن بمواد مجهولة المصدر.
+قمع مظاهرة للتضامن مع سلطانة خيا بالعيون
+ويوم 10 فيفري 2022، أدانت الهيئة الصحراوية لمناهضة الاحتلال المغربي بشدة قمع مظاهرة سلمية للتضامن مع السلطانة خيا وعائلتها.
+وأفاد المكتب التنفيذي للهيئة، في بيان له الأربعاء: “بحسب المعلومات الميدانية التي تم رصدها، فقد تدخلت قوات الاحتلال المغربية ممثلة في ما أطلق عليهم القوات المساعدة بزيهم الرسمي ودون سابق إنذار، باستعمال أبشع أنواع التعنيف في حق المناضلات اللاتي تجمهرن بالشارع العام للتضامن مع المدافعة عن حقوق الإنسان سلطانة خيا وعائلتها المحاصرين من طرف قوات القمع المغربية ببوجدور المحتلة منذ اأثر من 15 شهرا، مرددين الشعارات المطالبة بالحرية والاستقلال”.
+وقد أدى التدخل الهمجي -بحسب ذات البيان- إلى إصابة كل من مينة اباعلي و غلي عجنة و ليلى الليلي، و هن عضوات بالهيئة الصحراوية لمناهضة الاحتلال المغربي، بالإضافة الى اصابة الصالحة بوتنكيزة، و هي اعلامية مراسلة التلفزة الصحراوية، كما تم منع عضو الهيئة، مريم دمبر، من الوصول إلى مكان المظاهرة، بعد ان تمت محاصرة منزل عائلتها من طرف سيارات تابعة لشرطة الاحتلال واجبارها على المكوث في المنزل.
+وأعادت الهيئة “التأكيد على الحقوق المشروعة غير القابلة للتصرف للشعب الصحراوي”، مجددة مطالبتها المجتمع الدولي ب”التدخل العاجل لحماية المدنيين في الأراضي المحتلة من الصحراء الغربية، والعمل على إنهاء الحصار الامني والعسكري والإعلامي”.
+كما طالبت الهيئة بتجسيد على ارض الواقع “مبدأ المحاسبة الذي شكل غيابه تشجيعا لقوات الاحتلال على الإعتداءات ضد المدنيين الصحراويين، والتحلل من القيود والالتزامات التي يفرضها القانون الدولي على سلطات الاحتلال، بل ان -تضيف الهيئة- غياب سياسة الافلات من العقاب، شجع تلك القوات على المضي قدما في انتهاكاتها الجسيمة لقواعد القانون الدولي الإنساني والقانون الدولي لحقوق الإنسان”.
+التضييق على سلطانة خيا.. حملة الكترونية أوروبية للضغط على المغرب
+أطلقت منظمة ”أكات” الفرنسية حملة إلكترونية، أواخر جانفي 2022 من أجل رفع الحصار والتضييق الذي تتعرض له الناشطة الصحراوية سلطانة خيا وعائلتها من قبل قوات الاحتلال المغربي.
+ودعت المنظمة الفرنسية المختصة في مناهضة التعذيب، الممثل السامي للاتحاد الأوروبي للسياسة الخارجية والأمن إلى التدخل العاجل لوضع حد للاعتداءات المتكررة في حق الناشطة الصحراوية سلطانة خيا وأفراد عائلتها في سياق الهجمات المغربية التي تستهدف المدافعين الصحراويين عن حقوق الإنسان.
+وأشارت المنظمة الفرنسية المختصة في مناهضة التعذيب، إلى أن الناشطة سلطانة خيا وعدد من المناضلين من أجل تقرير المصير لشعب الصحراوي وحقوقه الأساسية، صاروا هدفا للهجمات المتكررة من طرف أجهزة النظام المغربي، والاعتداءات الجنسية والحقن بمواد مجهولة تعرض حياتهم للخطر.
+وفي هذا الصدد، دعت (أكات) الممثل السامي للاتحاد الأوروبي للسياسة الخارجية والأمن، جوزيب بوريل، لمطالبة سلطات الإحلال المغربية إلى وضع حد لجميع أشكال العنف، ضد المدافعين عن حقوق الإنسان، بمن فيهم سلطانة خيا ورفع الإقامة الجبرية والحصار العسكري على منزل عائلتها.
+كما طالبت المنظمة من بوريل، حث الرباط على احترام التزاماتها الدولية بشأن حماية حقوق الإنسان وخاصة مناهضة التعذيب وسوء المعاملة، وفتح تحقيق مستقل في أعمال التعذيب والانتهاكات الأخرى التي عانت من سلطانة خيا وشقيقتها.
+الصحراء الغربية: أكثر من 300 منظمة دولية توجه رسالة للنظام المغربي
+ويوم 27 جانفي 2022، جهت أكثر من 300 منظمة حقوقية عضو في مجموعة جنيف للدعم من أجل حماية وترقية حقوق الإنسان في الصحراء الغربية، رسالة للنظام المغربي دعته فيها إلى التخلي عن سياساته الاستعمارية وتطبيق القانون الدولي.
+ودعت المنظمات غير الحكومية وعددها 306 في بيان لها “حاملي اللائحة الخاصة بالصحراء الغربية في مجلس الأمن الدولي إلى إدراج أبعاد حقوق الإنسان وسيادة القانون في مهمة البعثة الأممية لتنظيم استفتاء في الصحراء الغربية (مينورسو).
+كما طالبت بتمكين المبعوث الشخصي للأمين العام للأمم المتحدة إلى الصحراء الغربية (ستافان دي ميستورا) من الوسائل لتجسيد عهدته وإتاحة الفرصة لشعب الصحراء الغربية للتعبير بحرية عن حقه في تقرير المصير و “الاستقلال”.
+وحثت المجموعة التي تابعت “باهتمام كبير” الجولة الأولى في المنطقة لستافان دي مستورا المغرب على “التخلي عن طموحاته وسياساته الاستعمارية واحترام القانون الدولي وتطبيقه لصالح الشعب الصحراوي وسكان منطقتي المغرب العربي والساحل”.
+كما أعرب أعضاء المجموعة عن أسفهم “العميق” لعدم زيارة دي ميستورا الإقليم غير المستقل الذي يحتله المغربي و”المغلق تمامًا أمام أي تحقيق مستقل منذ عام 2015 بما في ذلك من قبل المفوضية السامية لحقوق الإنسان”.
+كما أشار أعضاء المجموعة إلى أن جميع لوائح الأمم المتحدة “تؤكد من جديد على الحق غير القابل للتصرف لجميع الشعوب في تقرير المصير والاستقلال”.
+ونددت المنظمات غير الحكومية الـ306 بالموقف المغربي المستمر الذي يزعم أن الحل الوحيد الممكن للنزاع هو “إدماج الإقليم غير المستقل بالمغرب”.
+كما أكد المصدر أن “هذا الموقف يتعارض بشكل أساسي مع أهداف ومبادئ ميثاق الأمم المتحدة، فضلاً عن أحكام لوائح مجلس الأمني الذي ما فتئ أعضاؤه يدعون الطرفين إلى استئناف المفاوضات دون شروط مسبقة وبحسن نية”.
+ويؤكد النص أيضا أن “الاحتلال العسكري غير المشروع الذي طال أمده لإقليم الصحراء الغربية غير المستقل بدعم من فرنسا والولايات المتحدة والكيان الصهيوني قد تسبب وما زال يتسبب في حدوث انتهاكات جسيمة لحقوق الإنساني فضلاً عن انتهاك معايير القانون الإنساني الدولي بما في ذلك النهب غير القانوني للموارد الطبيعية الصحراوية.
+الصحراء الغربية: الرباط توجه تهمة غريبة لهيومن رايتس!
+ويوم 25 جانفي 2022، اتهمت الحكومة المغربية في خرجة غريبة، منظمة “هيومن رايتس ووتش” الحقوقية الدولية، بمعاداة الوحدة الترابية، بعد تقرير لها قدم أدلة دامغة حول تصاعد الانتهاكات ضد الناشطين الصحراويين.
+واتهمت “هيومن رايتس ووتش” في تقريرها السنوي المتعلق باتجاهات حقوق الإنسان حول العالم لعام 2021، المغرب بمضايقة وملاحقة ناشطين صحراويين وعرقلة “عمل بعض المنظمات الحقوقية المحلية غير الحكومية”.
+وقال تقرير المنظمة الحقوقية إن قوات الأمن المغربية أبقت، في نوفمبر 2020، “على تواجد كثيف شبه دائم خارج منزل ناشطة الاستقلال سلطانة خيا في بوجدور في الصحراء الغربية”.
+وأضاف التقرير أن السلطات المغربية “لم تقدم أي مبرر لذلك ومنعت العديد من الأشخاص بمن فيهم أفراد الأسرة من الزيارة”، ونقلت عن خيا قلوها إن “قوات الشرطة داهمت منزلها عدة مرات وضربتها وقريبتها ولطخت المنزل بسائل كريه الرائحة”.
+كما اتهم التقرير السلطات المغربية بمنع “التجمعات المساندة لحق الصحراويين في تقرير المصير، وعرقلت عمل بعض المنظمات الحقوقية المحلية غير الحكومية، بما في ذلك عن طريق منعها من التسجيل القانوني، وفي بعض الأحيان ضرب النشطاء والصحفيين أثناء احتجازهم وفي الشوارع، أو مداهمة منازلهم وتدمير أو مصادرة متعلقاتهم”.
+وأضافت “هيومن رايتس ووتش” أنه في 2021، “ظل 19 رجلا صحراويا في السجن بعد إدانتهم في محاكمتين جائرتين عامي 2013 و2017 بقتل 11 عنصرا من قوات الأمن، خلال اشتباكات اندلعت بعد أن فككت السلطات بالقوة مخيما احتجاجيا كبيرا في أكديم إزيك، الصحراء الغربية، في 2010”.
+ووفق التقرير، “اعتمدت كلتا المحكمتين بشكل شبه كامل على اعترافاتهم للشرطة لإدانتهم، دون التحقيق بجدية في مزاعم أن المتهمين وقّعوا على اعترافاتهم تحت التعذيب. ,أيّدت محكمة النقض، أعلى هيئة قضائية في المغرب، حكم الاستئناف في 25 نوفمبر 2020″.
+وبدل تقديم ردود مقنعة حول التقرير الحقوقي راحت المندوبية الوزارية، المكلفة بحقوق الإنسان في المغرب، تلوك اسطوانة الوحدة الترابية مجددا.
+وأكدت إن الفقرات الواردة في تقرير المنظمة لسنة 2021 تعد أكبر حجة على انخراطها في حملة سياسية ممنهجة مضادة لبلدنا.. وأكبر دليل على عدم انسجامها مع منهجها، بخصوص التعامل مع الحقائق” رغم أن التقرير يتحدث عن اقليم مستقل عن المغرب وفق قرارات ألامم المتحدة والقانون الدولي.
+الأمن المغربي يحقن سلطانة خيا بحقنة ثانية مجهولة!
+ومطلع ديسمبر 2021، كشفت الناشطة الصحراوية، سلطانة خيا، أن الأمن المغربي قام بحقنها بحقنة ثانية مجهولة بعدما هاجم منزلها واعتدى على جميع أفراد عائلتها.
+وقالت الناشطة في تغريدة، عبر حسابها على تويتر: “تم فجر اليوم الأحد 05/12/2121 هجوم بربري على منزلى من طرف عناصر تابعين للأجهزة المغربية والإعتداء على جميع أفراد الأسرة بما فيهم أمي أمتوا وتم حقنى بحقنة ثانية مجهولة”.
+عـــــــــــاجل 
+🔴تم فجر اليوم الأحد 05/12/2121  هجوم بربري على منزلى من طرف عناصر تابعين للأجهزة المغربية والإعتداء على جميع أفراد الأسرة بما فيهم أمي أمتوا وتم حقنى بحقنة ثانية مجهولة
+— الحساب الرسمي سلطانة سيد إبراهيم خيا Sultana Khaya (@Sultanakhayya1) December 5, 2021
+ونشر مناضل صحراوي مدافع عن القضية الوطنية ضد الاحتلال المغربي، فيديو يتحدث عن تفاصيل الاعتداء على خيا وعائلتها عبر حسابه على تويتر، مؤكدا من خلالها إنها في خطر.
+⭕حصار ظالم  وجرائم مستمرة…
+تم الهجوم فجر هذا اليوم الأحد 05/12/2021 على الساعة الرابعة فجرا على منزل عـــــــــــائلة المدافعة عن حقوق الإنسان #سلطانة_خيا  من طرف عناصر تابعين للأجهزة القمعية المغربية المحاصرة للمنزل منذ  19 نوفمبر 2020#عائلة_أهل_خيا_في_خطر pic.twitter.com/s5NUng7s7L
+— chayaj said (@chayaj_said) December 5, 2021
+قضية سلطانة خيا: العفو الدولية تفضح روايات النظام المغربي (وثيقة)
+دعت منظمة العفو الدولية النظام المغربي بوضع حد فوري، لما أسمتها اعتداءات وحشية ضد الناشطة الصحراوية، سلطانة خيا وعائلتها، والمتواصلة منذ ما يزيد على السنة.
+وفي رسالة إلى رئيس الحكومة المغربية عزيز أخنوش، طالبت المنظمة الدولية بإجراء تحقيق سريع وحيادي بخصوص الأعمال التعسفية التي تمارسها قوات الأمن والاعتداءات على سلطانة خيا وأسرتها، بما في ذلك الاعتداءات الجنسية وضمان تقديم المشتبه فيهم إلى العدالة.
+وحثت المنظمة النظام المغربي على ضمان حصول سلطانة خيا وعائلتها على العدالة وسبل الانصاف الفعالة، بما في ذلك التعويض المناسب، وضمان عدم تكرار إنتهاكات حقوق الإنسان التي تعرضوا لها.
+https://www.amnestyalgerie.org/2021/12/01/une-militante-sahraouie-violee-par-les-forces-marocaines/?fbclid=IwAR0sxyIsyUeihWDpGmD91Qymprvy2wVOcHVNw3E4K8rLgfCFOPlvgAp21sY
+وفيما يخص حصار منزل عائلة خيا في مدينة بوجدور، فقد جددت منظمة العفو الدولية نداءها الداعي لإنهاء الإقامة الجبرية التعسفية بحق سلطانة خيا وعائلتها وإحترام حقوقهم في حرية التنقل والتعبير وتكوين الجمعيات.
+وتطرق بيان للمنظمة الصادر إلى سلسلة الأعمال العدوانية التي تعرضت لها سلطانة خيا وعائلتها، سيما الهجوم على منزل العائلة فجر 15 نوفمبر، والإعتداء على أفراد العائلة بما في ذلك والدتها المُسنة ومنعهم من التنقل إلى المستشفى لتلقي العلاج الضروري.
+منظمة أمريكية تدعو المفوض الأممي للتحرك
+وفي 18 نوفمبر 2021، دعت منظمة روبرت كيندي لحقوق الانسان، مفوض الأمم المتحدة السامي لحقوق الإنسان لزيارة الصحراء الغربية، للتحقيق في اتهامات موجهة للأمن المغربي بالاعتداء واغتصاب الناشطة سلطانة خيا.
+وجاء في بيان للمنظمة إنها: يساورها قلق عميق إزاء التقارير الأخيرة عن الهجمات وانتهاكات حقوق الإنسان التي ارتكبتها السلطات المغربية ضد المدافعة الصحراوية عن حقوق الإنسان سلطانة خيا، وكذلك الانتقام من أميناتو حيدر الناشطة الصحراوية والحائزة على جائزة روبرت ف. كينيدي لحقوق الإنسان لعام 2008.
+وحسب المنظمة، فإنه في 15 نوفمبر، استنكرت المنظمة الصحراوية لمناهضة الاحتلال المغربي قيام الشرطة المغربية اقتحام منزل خيا في الساعة 5 صباحا، والتحرش اللفظي بها وعائلتها، واغتصابها هي وشقيقتها أثناء وجود والدتها، ويأتي ذلك بعد أنباء عن قيام قوات الأمن المغربية بالاعتداء على خيا وحقنها بمادة مجهولة في 8 نوفمبر، مما أدى إلى مرضها جسديًا.
+وأشار البيان إنه ليست المرة الأولى التي تتعرض فيها خيا لهجمات من قوات الأمن المغربية وتم حبس خيا بشكل تعسفي وغير قانوني رهن الإقامة الجبرية بحكم الأمر الواقع منذ نوفمبر 2020 ، حيث حافظت قوات الأمن المغربية على ” وجود مكثف شبه دائم خارج منزلها دون أمر رسمي أو اتهامات بعد دعوتها إلى تقرير المصير الصحراويين، وهي رئيسة رابطة الدفاع عن حقوق الإنسان وضد نهب الموارد الطبيعية في بوجدور.
+ودعت المنظمة الحكومة المغربية على إنهاء الإقامة الجبرية الفعلية على خيا ، وضمان امتثال السلطات لمعايير الحقوق الدولية المتعلقة بحرية التنقل وتكوين الجمعيات والتعبير.
+ودعت مفوض الأمم المتحدة السامي لحقوق الإنسان أن يقوم بزيارة إلى الصحراء الغربية للتحقيق في انتهاكات حقوق الإنسان في أقرب وقت ممكن ، بما في ذلك الاعتداء الجنسي الإجرامي على سلطانة خايا وشقيقتها. كما ندعو مجلس الأمن الدولي إلى إصلاح الغياب الطويل لآلية حقوق الإنسان في بعثة الأمم المتحدة للاستفتاء في الصحراء الغربية لتعزيز حماية حقوق الإنسان في الإقليم.
+وأمام تزايد الضغوط الدولية على النظام المغربي بشأن القضية أعاد سفيره لدى الأمم المتحدة عمر هلال ترويج رواية حمل سلطانة خيا الكلاشينكوف وتصويرها بالزي العسكري.
+وأكد هلال في رسالة إلى مجلس الأمن: “في ما يتعلق بالمدعوة سلطانة خيا، على وجه الخصوص، يجدر التساؤل منذ متى كان نشطاء حقوق الإنسان يرتدون زيا عسكريا ويحملون بندقية كلاشينكوف؟”.
+وكانت هذه الرواية المغربية هي نفسها التي قدمت سابقا، بعد ضغوط منظمات حقوقية حول انتهاكات حقوق الانسان بحق الصحراويين، ورد ناشطون صحراويون بأن خيا لو كانت تملك تدريبا عسكريا وسلاحا لما تمكن الأمن المغربي من فرض إقامة جبرية والاعتداء عليها وعلى عائلتها طيلة أشهر.
+لجنة حقوقية: الاعتداء على المناضلة سلطانة خيا من قبل الأمن المغربي
+قالت اللجنة الوطنية الصحراوية لحقوق الإنسان، الاثنين 15 نوفمبر 2021، إن الناشطة سلطانة خيا تعرضت لاعتداءات ومحاولات اغتصاب على يد رجال أمن مغاربة بمدينة بوجدور المحتلة بعد اقتحام منزل العائلة.
+وأكدت اللجنة في بيان لها أنه في تحد صارخ لجميع المعايير والمعاهدات الدولية لحقوق الإنسان واتفاقيات جنيف المتعلقة بحماية المدنيين تحت الاحتلال، تمارس السلطات الملكية القمعية أسوأ أشكال القمع الممنهج ضد المدافعة الصحراوية عن حقوق الإنسان سلطانة سيد إبراهيم خيا وعائلتها.
+عاجل
+تم فجر اليوم إقتحام منزلة عائلة أهل المناضلة والناشطة الحقوقية سلطانة خيا وتم ضرب النساء والوالدة متو البالغةمن العمر 84 وإغتصاب سلطانة خيا وتخريب المنزل وسرقة الأثاث من طرف قوات الإحتلال المغربي في مدينة بوجدور المحتلة #الصحراءالغربية 🇪🇭 pic.twitter.com/XO9gcUELqW
+— Said Mohamed erradi (@Saiderradi8) November 15, 2021
+I have been effectively held under house arrest by Moroccan authorities in Boujdour, Western Sahara 🇪🇭 In this video I am explaining the fifth raids on my house today 15/11/2021.my message to occupation that we will continue our struggling. pic.twitter.com/Yy9OzreRfD
+— الحساب الرسمي سلطانة سيد إبراهيم خيا Sultana Khaya (@Sultanakhayya1) November 15, 2021
+https://twitter.com/Sultanakhayya1/status/1460231685224738817
+وأوضحت إنه في وقت مبكر وعلى الساعة الخامسة وأربعين دقيقة من يوم 15 نوفمبر 2021، هجم عشرات من رجال الأمن المغاربة الملثمين تحت إشراف مباشر من رئيس دائرة الأمن الثالثة بمدينة بوجدور المحتلة المدعو محمد المدفعي، على منزل عائلة سيد إبراهيم خيا المحاصر منذ 19 نوفمبر 2020.
+صرخات #سلطانة، #الواعرة هي ايضاً صرخات خيبة امل من كل من خذلها، وما اكثرهم.
+ليست خيبة امل من المجتمع الدولي لانه كان دائماً رذيلاً نائماً عن آلام الضعفاء وإنما خيبةً وقهراً لكثرة الصحراويين وعدم قدرتهم على ازرها وحمايتها.
+كأن كل إرادة الشعب الصحراوي هاجرت وإجتمعت في الاختين #خيا https://t.co/4kJoCCTjm6
+— 🇪🇭في المَنْفَى🇪🇭 (@3rabiaFilmahgr) November 15, 2021
+وقام ثلاثة رجال أمن بشل حركة سلطانة التي كانت تصرخ من التعذيب وتحاول الهروب من أيديهم حيث تعرضت للاغتصاب والاعتداء الوحشي وكذلك الأمر لشقيقتيها الواعرة وأميلمنين.
+وأضاف البيان أن هذا الاعتداء الجبان بالكامل وقع أمام والدتهم الطاعنة في السن السيدة مينتو أمبيريك 84 عامًا، التي كانت ترتجف من الخوف والعجز وهي تتوسل لمن أساءوا إليها أن يوقفوا جريمتهم الشنيعة.
+وأكدت اللجنة أن هذا الاعتداء الجبان على المناضلة الحقوقية الصحراوية سلطانة خيا وصمة عار على جبين الهيئات الدولية المعنية باحترام حقوق الإنسان والشعوب.
+يستمر حصار منزلي ببوجدور المحتل #الصحراء_الغربية لأكثر من 360 يوم من طرف قوة الإحتلال المغربي المحاصرة للمنزل منذ 19 نوفمبر 2020
+12/11/2021@amnesty @ICRC @hrw pic.twitter.com/Raw7xGjzaS
+— الحساب الرسمي سلطانة سيد إبراهيم خيا Sultana Khaya (@Sultanakhayya1) November 12, 2021
+منع وفد نسائي إسباني من زيارة سلطانة خيا
+وفي 4 أكتوبر 2021، كشفت وزارة شؤون الأرض المحتلة والجاليات الصحراوية، أنّ الاحتلال المغربي أقدم على طرد وفد نسائي من الأراضي الصحراوية بعد منعهن من زيارة المناضلة الحقوقية سلطانة خيا.
+وبحسب الوزارة فقد تم استفزاز أعضاء الوفد النسائي ومنعهن من زيارة المناضلة الحقوقية سلطانة خيا وعائلتها من قبل قوات الاحتلال التي مارست الكثير من المضايقات ضدّ الناشطات الإسبانيات، قبل أن تطردهن بالقوة.
+وأبرزت الوزارة في بيان نقلته وكالة الأنباء الصحراوية تضامنها المطلق مع أعضاء الوفد اللائي مُنعن بالقوة من زيارة عائلة خيا، وندّدت بما تعرضن له على أيدي سلطات الاحتلال من إجراءات قمعية وترحيلهن قسرًا.
+وناشدت اللجنة الدولية للصليب الأحمر بالتدخل العاجل وتحمّل مسؤولياتها كاملة إزاء ما ترتكبه دولة الاحتلال المغربية من جرائم ضد الإنسانية في حق أبناء الشعب الصحراوي العُزّل.
+كما دعت للعمل على إطلاق سراح الأسرى الصحراويين وفتح الجزء المحتل من الصحراء الغربية أمام الهيئات الحقوقية والصحافة والمراقبين الدوليين.
+وجاء في البيان ذاته: “قوات الاحتلال لم تكتف فقط بمنع الوفد، بل عزلته عن بقية المسافرين وحاصرته بأكثر من 20 عنصرًا من عناصر شرطتها ومخابراتها، واحتجزت جوازاته وحقائب سفره وسط جو من الاستفزازات والمضايقات والمنع من الاتصال بالعالم الخارجي قبل أن تقوم بترحيله إلى إسبانيا بالقوة”.
+واعتبرت الوزارة ما أقدمت عليه قوات الاحتلال القمعية المغربية بمطار مدينة العيون المحتلة، السبت، ومنع وفد قادم من إسبانيا، استمرارًا لانتهاكاتها الصارخة لحقوق الإنسان وإجراءاتها الإجرامية واللا قانونية.
+وطالبت مجلس الأمن الدولي ومنظمة الأمم المتحدة بالتعجيل في تصفية الاستعمار من الجزء المحتل من تراب الجمهورية العربية الصحراوية الديمقراطية وتمتيع الشعب الصحراوي بحقه غير القابل للتصرف في الحرية والاستقلال وإلزام دولة الاحتلال المغربية باحترام الشرعية الدولية.
+يُشار إلى أنّ الوفد الاسباني تكوّن من المحاميتين الإسبانيتين “إيناس ميرندا” و”فلورا راموس”، إضافة إلى الدكتورة الرعبوب محمد لمين.
+وتمّ منع الثلاثة من قبل سلطات الاحتلال من التوجه الى مدينة بوجدور المحتلة لمؤازرة الناشطة الحقوقية والبطلة الصحراوية سلطانة سيد إبراهيم خيا وأختها المناضلة الجسورة الواعرة وعائلتها، والاطمئنان على وضعيتهم الصحية المتدهورة.
+يذكر أن الناشطة خيا وعائلتها يعيشون ظروفا صعبة للغاية نتيجة الحصار المستمر من طرف سلطات الاحتلال التي تواصل اعتداءاتها اليومية في حقهم منذ حوالي عشرة أشهر انتقامًا من مواقفهم السياسية المطالبة بالحرية والاستقلال وإنهاء الاحتلال.
+ويواصل الاحتلال المغربي حصاره المضروب على الناشطة سلطانة خيا وعائلتها منذ أزيد من 310 أيام، متجاهلاً الدعوات الدولية المطالبة بوقف هذه الممارسات الخطيرة.
+وتعرضت سلطانة خيا، إلى الضرب الأربعاء الماضي على يد عناصر تابعة للأمن المغربي، كما تمّ الاعتداء على مجموعة من المناضلين الصحراويين قدموا لمنزل عائلتها للتضامن معها، ما خلّف إصابات عديدة في صفوفهم.",success,20221117,,AUTHORITIES,,,190,4,-10.0,-6.07269503546099,26.1147,-14.3892,4,https://www.echoroukonline.com/%D8%B7%D8%A7%D9%84%D8%A8%D8%AA%D8%A7%D9%86-%D9%86%D8%B1%D9%88%D9%8A%D8%AC%D9%8A%D8%AA%D8%A7%D9%86-%D8%AA%D8%B1%D9%88%D9%8A%D8%A7%D9%86-%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D8%B7%D8%B1%D8%AF%D9%87%D9%85,www.echoroukonline.com,True,True,2022-11-17,464209.0,MOR-2022-1-721-4,2022.0,False,Clear,1.0,331.0,331.0,Morocco: Sahrawi Arab Democratic Republic (Western Sahara),721.0,721.0,Government of Morocco - POLISARIO,108.0,108.0,Government of Morocco,563.0,563.0,POLISARIO,1.0,"""AllAfrica,2023-02-02,Western Sahara's 'Frozen Conflict' Heats Up, but World's Attention Elsewhere
+CR 	The New Humanitarian""",AllAfrica,2023-02-02,"Western Sahara's 'Frozen Conflict' Heats Up, but World's Attention Elsewhere
+CR 	The New Humanitarian",The New Humanitarian,2.0,Al Mahbas village,"Drone strikes are concentrated along the wall ""the Berm""",Guelmim-Oued Noun region,Assa-Zag province,27.41434,-9.04785,POINT (-9.04785 27.41434),168822.0,Morocco,600.0,Africa,1.0,1.0,2022-11-15,2022-11-15 00:00:00.000,0.0,4.0,0.0,0.0,4.0,4.0,4.0,600.0,
+1136433024,,no_extract,20231027,MOROCCO,,MAR,,1712,4,-9.2,-7.2487644151565,25.0,-13.5,1,https://www.elkhabar.com/press/article/235871/%D8%AC%D8%A8%D9%87%D8%A9-%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D8%A7%D8%B1%D9%8A%D9%88-%D8%AA%D8%AF%D9%8A%D9%86/,www.elkhabar.com,False,False,2023-10-27,511311.0,MOR-2023-1-721-1,2023.0,False,Clear,1.0,331.0,331.0,Morocco: Sahrawi Arab Democratic Republic (Western Sahara),721.0,721.0,Government of Morocco - POLISARIO,108.0,108.0,Government of Morocco,563.0,563.0,POLISARIO,1.0,"""Morocco World News,2023-12-16,Polisario launches a new attack on the Awsard region in southern Morocco""",Morocco World News,2023-12-16,Polisario launches a new attack on the Awsard region in southern Morocco,Morocco World News,1.0,Semara town,in the city of Smara,Laâyoune-Sakia al Hamra region,Es-Semara province,26.73841,-11.67194,POINT (-11.67194 26.73841),168097.0,Morocco,600.0,Africa,1.0,1.0,2023-10-29,2023-10-29 00:00:00.000,0.0,0.0,0.0,1.0,1.0,1.0,1.0,600.0,
+1221749414,"في عيدهم الـ73.. رجال الشرطة يكتبون التاريخ بدمائهم في معركة الواحات
+مع اقتراب عيد الشرطة الـ 73 هناك تضحيات ومعارك ملحمية لرجال الشرطة الأبرار لا يمكن نسيانها على الإطلاق، ومن ضمن هذه الملاحم البطولية معركة الواحات التي استشهد فيها 16 من رجال وزارة الداخلية الأبطال بينما أصيب 13 أخرون، أوفوا العهد وصانوا القسم تصدوا للرصاص بصدورهم وفدوا الوكن بأوراحهم الطاهرة وسالت دماءهم الذكية على أرض الصحراء الغربية.
+معركة لعدة ساعات خاضها رجال الشرطة المصرية بمنتهى الشرف والأمانة، وواجهوا جماعة إرهابية لا شرف لها، هاجموا القوات غدرا فوقف أبطال الشرطة المصرية رافضين أن تمر هذه الجماعات المسلحة إلى منطقة الوادي بكميات كبيرة من السلاح والذخيرة كانت بحوزتهم، فحدثت المعركة.
+تفاصيل معركة الواحات
+في 20 أكتوبر 2017 بمنطقة الكيلو ١٣٥ بطريق «أكتوبر- الواحات» توجهت قوة من رجال الشرطة المصرية إلى الصحراء الغربية بناء على معلومات وتحريات أفادت بتواجد عدة عناصر إرهابية بحوزتها كميات من السلاح، فخرجت القوات لتمشيط المنطقة وضبط هذه العناصر الإرهابية الأثمة، وأثناء مرور القوات من بين جبلين، هاجمت الجماعة الإرهابية القوات بقذائف أر بي جي وهاون وخاض رجال الشرطة معركة شرسة مع هؤلاء الإرهابين، في ملحمة بطولية سطرها التاريخ، انتهت باستشهاد ١٦ من قوات الشرطة وإصابة ١٣ آخرين، ومصرع 15 من العناصر الإرهابية.
+معلومات عن خلية إرهابية في الصحراء الغربية
+كانت بداية الأمر بورود معلومات لقطاع الأمن الوطنى تفيد باتخاذ عدد من العناصر الإرهابية المنطقة المتاخمة للكيلو ١٣٥ بطريق الواحات بعمق الصحراء مكانًا للاختباء، فجرى إطلاق مأموريتين، الأولى من محافظة الجيزة، والثانية من الفيوم، لمداهمة تلك المنطقة.
+وحال اقتراب المأمورية الأولى من مكان وجود العناصر الإرهابية، استشعروا قدوم القوات، وبادروا باستهدافهم باستخدام الأسلحة الثقيلة من الاتجاهات، فبادلتهم القوات إطلاق النيران لعدة ساعات، فاستشهد مجموعة من رجال الشرطة الأبرار.
+الداخلية تثأر لشهداء الواجب الوطني
+كان الرد ٣١ أكتوبر، بتصفية 15 إرهابيًا شاركوا فى الجريمة، والقبض على المخطط للحادث، عبدالرحيم عبدالله المسمارى، ليبى الجنسية، إضافة إلى تحرير النقيب محمد الحايس من أيدى العناصر الإرهابية، وتبين أن وراء العملية الإرهابى المصرى عماد الدين أحمد محمود عبدالحميد، الذى لقى مصرعه فى القصف الجوى للبؤرة
+قائمة شهداء معركة الواحات
+قائمة شهداء معركة الوحات 2017 أسماء كلا من اللواء امتياز كامل، الشهيد العقيد أحمد فايز، الشهيد المقدم أحمد جاد جميل، المقدم محمد وحيد مصلحى، المقدم محمد عبدالفتاح سليمان، الرائد أحمد عبدالباسط، النقيب كريم أسامة فرحات، النقيب أحمد طارق، النقيب إسلام محمد حلمى مشهور، النقيب عمرو صلاح الدين، النقيب أحمد حافظ شوشة، الرقيب أنور الدبركى، مجند بطرس سليمان، المجند محمود ناصر رجب، المجند حسن زين العابدين، المجند عمر فرغلى،",success,20250120,POLICEMEN,TERRORIST,,,190,4,-10.0,-10.5263157894737,25.0,-13.5,1,https://www.dostor.org/4933051,www.dostor.org,False,False,2025-01-20,565367.0,MOR-2025-1-721-0,2025.0,False,Clear,1.0,331.0,331.0,Morocco: Sahrawi Arab Democratic Republic (Western Sahara),721.0,721.0,Government of Morocco - POLISARIO,108.0,108.0,Government of Morocco,563.0,563.0,POLISARIO,2.0,"""African Research Bulletin,2025-02-10,Political, Social and Cultural SeriesVolume 62, Issue 1 Feb 2025"";""Crisis Watch,2025-02-01,Western Sahara January 2025""",African Research Bulletin;Crisis Watch,2025-02-10;2025-02-01,"Political, Social and Cultural SeriesVolume 62, Issue 1 Feb 2025;Western Sahara January 2025","Moroccan Media 20/1
+
+///
+
+Crisis Watch",2.0,Al Haouza town,"buffer zone separating the disputed Western Saharan
+region and Morocco
+
+near Al Haouza town",Laâyoune-Sakia al Hamra region,Es-Semara province,27.75,-11.0,POINT (-11 27.75),169539.0,Morocco,600.0,Africa,1.0,1.0,2025-01-18,2025-01-18 00:00:00.000,0.0,3.0,0.0,0.0,3.0,3.0,3.0,600.0,

@@ -1,0 +1,11 @@
+.env
+.idea/
+.venv/
+__pycache__/
+GEDEvent_v26_1.csv
+test.png
+ACLED Data_2026-08-23_event_date_from_2020-01-01_event_date_to_2026-08-23.csv
+ACLED Data_2026-08-23_event_date_from_2020-01-01_event_date_to_2026-08-23 (1).csv
+ACLED Data_2026-08-23_event_date_from_2020-01-01_event_date_to_2026-08-23 (2).csv
+explore_acled.ipynb
+Текстовый документ.txt
