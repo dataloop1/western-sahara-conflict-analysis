@@ -11,14 +11,10 @@ load_dotenv()
 
 gdf = gpd.read_file('export.geojson')
 gdf_extra = gpd.read_file('mauritania_1.kml')
-carto_key = os.getenv("MAP_KEY")
-tiles_url = f"https://{{s}}.basemaps.cartocdn.com/rastertiles/light_all/{{z}}/{{x}}/{{y}}.png?key={carto_key}"
-
 m = folium.Map(
     location=[29.56, -7.10],
     zoom_start=6,
-    tiles=None,
-    attr='OpenStreetMap contributors, CARTO',
+    tiles="OpenStreetMap",
     max_bounds=True,
     min_lat=19.0,
     max_lat=38.0,
@@ -26,12 +22,6 @@ m = folium.Map(
     max_lon=2.0,
 )
 
-folium.TileLayer(
-    tiles=tiles_url,
-    attr='OpenStreetMap contributors, CARTO',
-    name='Base Map',
-    control=False
-).add_to(m)
 un_group = folium.FeatureGroup(name='UN/ MINURSO')
 sadr_group = folium.FeatureGroup(name='SADR/POLISARIO')
 berm_zones = folium.FeatureGroup(name='Berm and zones')
@@ -442,5 +432,7 @@ legend_html = '''
     <span style="color:gray;">●</span> Disputed / unconfirmed
 </div>
 '''
+gray_css = '<style>.leaflet-tile-pane { filter: grayscale(90%); }</style>'
+m.get_root().html.add_child(folium.Element(gray_css))
 m.get_root().html.add_child(folium.Element(legend_html))
 m.save('map.html')
