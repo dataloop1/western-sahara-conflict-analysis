@@ -250,8 +250,8 @@ ucdp_texts = {
         "08.02.2021",
         "POLISARIO carried out an attack on a Moroccan armed forces garrison. According to POLISARIO's statements, 3 Moroccan soldiers were killed; Morocco's Prime Minister publicly called this a 'media war.'",
         0, 3, "Morocco (disputed)",
-        "",
-        ""
+        "Bladi.net",
+        "https://www.bladi.net/polisario-militaires-marocains,79643.html"
     ),
     385685: make_popup(
         "💥",
