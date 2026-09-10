@@ -311,7 +311,7 @@ ucdp_texts = {
         "🚚",
         "Airstrike on a Truck",
         "10.04.2022",
-        "Media affiliated with the POLISARIO independence movement reported that a Moroccan airstrike hit trucks near the border between the disputed territory and Mauritania early Sunday morning, killing three people of unknown nationality. Because Algeria made a similar accusation to the one on January 3, 2022, this may refer to the same incident.",
+        "Media affiliated with the POLISARIO independence movement reported that a Moroccan airstrike hit trucks near the border between the disputed territory and Mauritania early Sunday morning, killing three people of unknown nationality.",
         3, 3, "Unidentified",
         "The New Arab",
         "https://www.newarab.com/news/algeria-accuses-morocco-killing-3-edge-w-sahara"
