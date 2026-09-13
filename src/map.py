@@ -9,8 +9,8 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 
-gdf = gpd.read_file('export.geojson')
-gdf_extra = gpd.read_file('mauritania_1.kml')
+gdf = gpd.read_file('../data/export.geojson')
+gdf_extra = gpd.read_file('../data/mauritania_1.kml')
 m = folium.Map(
     location=[29.56, -7.10],
     zoom_start=6,
@@ -147,7 +147,7 @@ for index, row in gdf.iterrows():
     points = [[lat, lon] for lon, lat in geom.coords]
     folium.PolyLine(locations=points, color='red', tooltip='🧱The Moroccan Wall Against the POLISARIO (Wall of Shame)').add_to(berm_zones)
 
-for filename in ['mauritania_1.kml', 'mauritania_2.kml']:
+for filename in ['../data/mauritania_1.kml', '../data/mauritania_2.kml']:
     gdf_extra = gpd.read_file(filename)
     for index, row in gdf_extra.iterrows():
         geom = row.geometry
@@ -191,8 +191,8 @@ folium.PolyLine(
 
 
 
-gdf_extra1 = gpd.read_file('mauritania_1.kml')
-gdf_extra2 = gpd.read_file('mauritania_2.kml')
+gdf_extra1 = gpd.read_file('../data/mauritania_1.kml')
+gdf_extra2 = gpd.read_file('../data/mauritania_2.kml')
 total_gdf = list(gdf.geometry) + list(gdf_extra1.geometry) + list(gdf_extra2.geometry)
 tot_geo = gpd.GeoSeries(total_gdf, crs='EPSG:4326')
 tot_geo = tot_geo.to_crs(epsg=32628)
@@ -204,7 +204,7 @@ buffer_strip_geo = gpd.GeoSeries([buffer_strip], crs=32628).to_crs(epsg=4326)
 folium.GeoJson(restricted_area_geo, style_function=lambda x: {'color': 'purple', 'fillOpacity': 0.1, 'stroke': False}, tooltip='Restricted Area (30 km)').add_to(berm_zones)
 folium.GeoJson(buffer_strip_geo, style_function=lambda x: {'color': 'red', 'fillOpacity': 0.3, 'stroke':False}, tooltip='Buffer Strip (5 km)').add_to(berm_zones)
 
-ucdp_list = pd.read_csv('ucdp_clean.csv')
+ucdp_list = pd.read_csv('../data/ucdp_clean.csv')
 #change coords a little bit for better explore map information
 ucdp_list.loc[ucdp_list["id"] == 391501.0, "latitude"] = 21.333512788067424
 ucdp_list.loc[ucdp_list["id"] == 391501.0, "longitude"] =  -16.947018417227095
@@ -435,4 +435,4 @@ legend_html = '''
 gray_css = '<style>.leaflet-tile-pane { filter: grayscale(90%); }</style>'
 m.get_root().html.add_child(folium.Element(gray_css))
 m.get_root().html.add_child(folium.Element(legend_html))
-m.save('map.html')
+m.save('../output/map.html')

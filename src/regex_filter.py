@@ -1,8 +1,8 @@
 import re
 import pandas as pd
 from urllib.parse import urlparse
-progress = pd.read_csv('test_start.csv')
-data_conf = pd.read_csv('conflicts.csv')
+progress = pd.read_csv('../data/test_start.csv')
+data_conf = pd.read_csv('../data/conflicts.csv')
 data_conf['domain'] = data_conf['SOURCEURL'].apply(lambda x: urlparse(x).netloc)
 result = progress.merge(data_conf, on='GLOBALEVENTID')
 words_casualty = ['killed', 'died', 'dead', 'injured', 'wounded', 'casualties', 'fatalities', 'tué', 'tuée', 'tués',
@@ -29,8 +29,8 @@ def check_repression(data_frame):
         return re.search(pattern_repression, data_frame, flags =re.IGNORECASE) is not None
 result['has_repression_mention'] = result['extract'].apply(check_repression)
 result['date'] = pd.to_datetime(result['SQLDATE'], format='%Y%m%d')
-result.to_csv('conflicts_enriched.csv', index=False)
-testing = pd.read_csv('GEDEvent_v26_1.csv')
+result.to_csv('../data/conflicts_enriched.csv', index=False)
+testing = pd.read_csv('../data/GEDEvent_v26_1.csv')
 testing_maroco = testing[testing['country']=='Morocco']
 testing_maroco['date_start'] = pd.to_datetime(testing_maroco['date_start'])
 result_sort = result.sort_values('date')
@@ -38,5 +38,5 @@ testing_maroco_sort = testing_maroco.sort_values('date_start')
 conflicts_info = pd.merge_asof(result_sort, testing_maroco_sort, left_on='date', right_on='date_start', direction='nearest', tolerance=pd.Timedelta(days=2))
 ucdp_conflicts = conflicts_info[conflicts_info['best'].notna()]
 ucdp_conflicts_unique_matches = ucdp_conflicts.drop_duplicates(subset='id')
-ucdp_conflicts.to_csv('ucdp_articles_all.csv', index=False)
-ucdp_conflicts_unique_matches.to_csv('ucdp_unique.csv', index=False)
+ucdp_conflicts.to_csv('../data/ucdp_articles_all.csv', index=False)
+ucdp_conflicts_unique_matches.to_csv('../data/ucdp_unique.csv', index=False)

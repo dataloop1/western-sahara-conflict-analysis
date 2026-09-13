@@ -1,0 +1,10 @@
+pandas
+geopandas
+shapely
+folium
+matplotlib
+seaborn
+trafilatura
+SQLAlchemy
+psycopg2-binary
+python-dotenv

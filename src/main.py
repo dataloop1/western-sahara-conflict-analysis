@@ -4,12 +4,12 @@ import pandas as pd
 import time
 from urllib.parse import urlparse
 
-data_conf = pd.read_csv('conflicts.csv')
-data_dip = pd.read_csv('diplomatic.csv')
+data_conf = pd.read_csv('../data/conflicts.csv')
+data_dip = pd.read_csv('../data/diplomatic.csv')
 data_conf['domain'] = data_conf['SOURCEURL'].apply(lambda x: urlparse(x).netloc)
 domain_dict = data_conf['domain'].value_counts().to_dict()
 time_start = time.time()
-with open('test_start.csv', mode='w', encoding='utf-8-sig', newline='') as f:
+with open('../data/test_start.csv', mode='w', encoding='utf-8-sig', newline='') as f:
     writer = csv.DictWriter(f, fieldnames=['GLOBALEVENTID', 'extract', 'status'])
     writer.writeheader()
     for index, row in data_conf.iterrows():

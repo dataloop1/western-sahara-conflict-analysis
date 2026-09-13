@@ -32,14 +32,14 @@ ACLED was originally considered as the data source, but event-level access requi
 - SQL was used to analyze the overall dynamics of media mentions and to run a time-based analysis overlaying dates of external events potentially linked to the conflict, checking for correspondence with fluctuations in news volume.
 
 **Visualization**
--🗺️ [View the interactive map](https://dataloop1.github.io/western-sahara-conflict-analysis/map.html) — UN peacekeeping mission objects in the region are plotted (based on the mission's official map); key cities are marked with historical and military context, along with refugee camp locations, Algerian gas pipelines (reflecting changes in operational status over different periods), and the buffer zones and defensive wall (the Berm). A timestamped timeline is integrated for the UCDP GED data, allowing exploration of the dynamics of clashes and individual event descriptions.
+-🗺️ [View the interactive map](https://dataloop1.github.io/western-sahara-conflict-analysis/output/map.html) — UN peacekeeping mission objects in the region are plotted (based on the mission's official map); key cities are marked with historical and military context, along with refugee camp locations, Algerian gas pipelines (reflecting changes in operational status over different periods), and the buffer zones and defensive wall (the Berm). A timestamped timeline is integrated for the UCDP GED data, allowing exploration of the dynamics of clashes and individual event descriptions.
 - **Two-panel media-dynamics chart (Matplotlib)** — the top and bottom panels show the monthly dynamics of publication mentions by category (conflict-related and diplomatic content). 14 key external-date markers are overlaid on the chart to visually check whether peaks and dips in media activity line up with specific historical events.
 
-![Monthly mentions: conflicts vs diplomatic](conflicts_vs_diplomatic.png)
+![Monthly mentions: conflicts vs diplomatic](output/conflicts_vs_diplomatic.png)
 
 *Labels 1–14 are explained in the table at the end of this document.*
 
-![Interactive conflict map](map_screenshot.png)
+![Interactive conflict map](output/map_screenshot.png)
 
 ---
 
@@ -82,29 +82,36 @@ The project also documents important GDELT shortcomings; knowing about them can 
 
 ## Repository Structure
 
-| File                      | Purpose |
-|---------------------------|---|
-| `main.py`                 | Scrapes full article text from GDELT sources via `trafilatura`, saves extraction status |
-| `regex_filter.py`         | Extracts `casualty`/`repression` flags, matches against UCDP via `merge_asof` |
-| `to_sql.py`               | Final data-type processing, loads all tables into PostgreSQL |
-| `map.py`                  | Builds the interactive conflict map (folium) |
-| `visual-graphic.py`       | Builds the two-panel dynamics chart (matplotlib) |
-| `CAMEO.eventcodes.txt`    | GDELT event code reference table |
-| `*.kml`, `export.geojson` | Geodata for drawing the Berm and buffer zones |
-| `*.csv`                   | Intermediate and final pipeline data at various processing stages |
-| `findings.md`             | Extended analysis: full UCDP verification (12 incidents), catalog of 6 GDELT error types |
+```
+src/      pipeline and visualization scripts
+data/     source and intermediate CSV/KML/geojson data
+output/   finished map (map.html) and chart (PNG) files
+```
 
-Scripts run in this order: `main.py` → `regex_filter.py` → `to_sql.py` → `map.py` / `visual-graphic.py`.
+| File                            | Purpose |
+|----------------------------------|---|
+| `src/main.py`                   | Scrapes full article text from GDELT sources via `trafilatura`, saves extraction status |
+| `src/regex_filter.py`           | Extracts `casualty`/`repression` flags, matches against UCDP via `merge_asof` |
+| `src/to_sql.py`                 | Final data-type processing, loads all tables into PostgreSQL |
+| `src/map.py`                    | Builds the interactive conflict map (folium) |
+| `src/visual-graphic.py`         | Builds the two-panel dynamics chart (matplotlib) |
+| `data/CAMEO.eventcodes.txt`     | GDELT event code reference table |
+| `data/*.kml`, `data/export.geojson` | Geodata for drawing the Berm and buffer zones |
+| `data/*.csv`                    | Intermediate and final pipeline data at various processing stages |
+| `findings.md`                   | Extended analysis: full UCDP verification (12 incidents), catalog of 6 GDELT error types |
+
+Scripts run in this order: `src/main.py` → `src/regex_filter.py` → `src/to_sql.py` → `src/map.py` / `src/visual-graphic.py`. Each script expects to be run with `src/` as the working directory (paths to `data/`/`output/` are relative to it).
 
 ---
 
 ## How to Run
 
+- Install dependencies: `pip install -r requirements.txt`.
 - Fully reproducing the pipeline from scratch requires Google Cloud / BigQuery access (to pull raw GDELT data) — the raw export itself isn't included due to its size.
 - A `.env` file with PostgreSQL credentials and a CARTO API key is not included in the repository for security reasons — without it, `to_sql.py` won't run. `map.py` runs without `.env` — 
 the map now uses keyless OpenStreetMap tiles.
-- `GEDEvent_v26_1.csv` (UCDP GED, ~260 MB) is not included due to GitHub's file-size limit — it's freely available at [ucdp.uu.se/downloads](https://ucdp.uu.se/downloads/).
-- The finished pipeline outputs (map, chart, intermediate CSVs) are already in the repository and open without any additional setup.
+- `GEDEvent_v26_1.csv` (UCDP GED, ~260 MB) is not included due to GitHub's file-size limit — it's freely available at [ucdp.uu.se/downloads](https://ucdp.uu.se/downloads/); place it in `data/` if you want to re-run `regex_filter.py`.
+- Two intermediate outputs (`conflicts_clean.csv`, `conflicts_enriched.csv`) are excluded from the repository via `.gitignore` since they contain full scraped article text and are regenerable by running `regex_filter.py`/`to_sql.py`; the other finished pipeline outputs (map, chart, remaining CSVs) are already in the repository and open without any additional setup.
 
 ---
 
