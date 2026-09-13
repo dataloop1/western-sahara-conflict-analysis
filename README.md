@@ -126,8 +126,8 @@ the map now uses keyless OpenStreetMap tiles.
 | 4 | 01.11.2021 | Three Algerian drivers came under fire and were killed | ✅ Confirmed |
 | 5 | 14.03.2022 | Spain's Prime Minister sent an official letter to Morocco's King supporting the autonomy plan | ✅ Confirmed by external source |
 | 6 | 10.04.2022 | Drone strikes in the grey zone killed Mauritanian gold prospectors; POLISARIO severed ties with Spain over its support for the Moroccan autonomy plan | ⚠️ Confirmed, partially — the data includes another case with the same context but a different date (3 January 2022) |
-| 7 | 30.07.2024 | Official letter from French President Macron supporting the Moroccan autonomy plan | ✅ Confirmed by external source |
-| 8 | 29.10.2023 | Explosions in the city of Smara | ✅ Confirmed |
+| 7 | 29.10.2023 | Explosions in the city of Smara | ✅ Confirmed by external source |
+| 8 | 30.07.2024 | Official letter from French President Macron supporting the Moroccan autonomy plan | ✅ Confirmed |
 | 9 | 04.10.2024 | The ECJ ruled that Morocco's sovereignty over Western Sahara does not extend to it, so EU–Morocco trade agreements do not apply to the SADR | ✅ Confirmed |
 | 10 | 18.01.2025 | Moroccan media reported the elimination of a POLISARIO Front commander | ✅ Confirmed with a caveat — the exact death toll is unconfirmed |
 | 11 | 09.02.2026 | Closed-door talks in Madrid on resolving the situation | ⚠️ Talks confirmed, but the code-based measurement method is unreliable |
