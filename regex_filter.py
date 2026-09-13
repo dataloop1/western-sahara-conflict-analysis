@@ -2,7 +2,7 @@ import re
 import pandas as pd
 from urllib.parse import urlparse
 progress = pd.read_csv('test_start.csv')
-data_conf = pd.read_csv(r'E:\desktop\maroco\conflicts.csv')
+data_conf = pd.read_csv('conflicts.csv')
 data_conf['domain'] = data_conf['SOURCEURL'].apply(lambda x: urlparse(x).netloc)
 result = progress.merge(data_conf, on='GLOBALEVENTID')
 words_casualty = ['killed', 'died', 'dead', 'injured', 'wounded', 'casualties', 'fatalities', 'tué', 'tuée', 'tués',

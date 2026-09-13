@@ -79,19 +79,19 @@ The project also documents important GDELT shortcomings; knowing about them can 
 
 ## Repository Structure
 
-| File | Purpose |
-|---|---|
-| `main.py` | Scrapes full article text from GDELT sources via `trafilatura`, saves extraction status |
-| `regex filter.py` | Extracts `casualty`/`repression` flags, matches against UCDP via `merge_asof` |
-| `to_sql.py` | Final data-type processing, loads all tables into PostgreSQL |
-| `map.py` | Builds the interactive conflict map (folium) |
-| `visual-graphic.py` | Builds the two-panel dynamics chart (matplotlib) |
-| `CAMEO.eventcodes.txt` | GDELT event code reference table |
+| File                      | Purpose |
+|---------------------------|---|
+| `main.py`                 | Scrapes full article text from GDELT sources via `trafilatura`, saves extraction status |
+| `regex_filter.py`         | Extracts `casualty`/`repression` flags, matches against UCDP via `merge_asof` |
+| `to_sql.py`               | Final data-type processing, loads all tables into PostgreSQL |
+| `map.py`                  | Builds the interactive conflict map (folium) |
+| `visual-graphic.py`       | Builds the two-panel dynamics chart (matplotlib) |
+| `CAMEO.eventcodes.txt`    | GDELT event code reference table |
 | `*.kml`, `export.geojson` | Geodata for drawing the Berm and buffer zones |
-| `*.csv` | Intermediate and final pipeline data at various processing stages |
-| `findings.md` | Extended analysis: full UCDP verification (12 incidents), catalog of 6 GDELT error types |
+| `*.csv`                   | Intermediate and final pipeline data at various processing stages |
+| `findings.md`             | Extended analysis: full UCDP verification (12 incidents), catalog of 6 GDELT error types |
 
-Scripts run in this order: `main.py` → `regex filter.py` → `to_sql.py` → `map.py` / `visual-graphic.py`.
+Scripts run in this order: `main.py` → `regex_filter.py` → `to_sql.py` → `map.py` / `visual-graphic.py`.
 
 ---
 

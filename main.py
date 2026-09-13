@@ -4,8 +4,8 @@ import pandas as pd
 import time
 from urllib.parse import urlparse
 
-data_conf = pd.read_csv(r'E:\desktop\maroco\conflicts.csv')
-data_dip = pd.read_csv(r'E:\desktop\maroco\diplomatic.csv')
+data_conf = pd.read_csv('conflicts.csv')
+data_dip = pd.read_csv('diplomatic.csv')
 data_conf['domain'] = data_conf['SOURCEURL'].apply(lambda x: urlparse(x).netloc)
 domain_dict = data_conf['domain'].value_counts().to_dict()
 time_start = time.time()
@@ -35,5 +35,4 @@ time_end= time.time()
 print(f'start - {time_start}')
 print(f'end - {time_end}')
 print(f'end-start {time_end-time_start}')
-test_check = pd.read_csv('test_start.csv')
 

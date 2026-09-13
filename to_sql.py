@@ -53,7 +53,7 @@ for table_name, df in data.items():
     df.to_sql(
         name=table_name,
         con=engine,
-        if_exists='append',
+        if_exists='replace',
         index=False)
 df_ucdp_events.to_csv('ucdp_clean.csv', index=False)
 df_conflicts.to_csv('conflicts_clean.csv', index=False)
