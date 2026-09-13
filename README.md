@@ -52,6 +52,9 @@ On event types — there's no clear pattern showing that every external date dro
 ---
 
 ## Limitations
+12 incidents—documented and verified by the UCDP. The verification of these incidents is based on media reports and UN reports, as most incidents in the conflict remain unverified due to information noise and MINURSO’s inability to travel to the sites to investigate. Therefore, based on these 12 entries, it is not possible to track trends over time or determine when the conflict was more active and when it was calmer.
+
+Translated with DeepL.com (free version)
 
 The dynamics analysis showed that correlation with external dates wasn't always present (for example, Guerguerat: `AVG(goldsteinscale)` barely changed even as the count jumped to 94/160 events). What grew was media coverage, not the severity of events.
 
