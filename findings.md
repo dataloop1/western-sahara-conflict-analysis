@@ -1,6 +1,9 @@
 л# Findings — Extended Analysis
 
 ## 1. UCDP Verification (12 incidents)
+12 incidents—documented and verified by the UCDP. The verification of these incidents is based on media reports and UN reports, as most incidents in the conflict remain unverified due to information noise and MINURSO’s inability to travel to the sites to investigate. Therefore, based on these 12 entries, it is not possible to track trends over time or determine when the conflict was more active and when it was calmer.
+
+Translated with DeepL.com (free version)
 
 The established tolerance for matching events against GDELT was a window of ±2 days.[^1]
 
