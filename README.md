@@ -32,7 +32,7 @@ ACLED was originally considered as the data source, but event-level access requi
 - SQL was used to analyze the overall dynamics of media mentions and to run a time-based analysis overlaying dates of external events potentially linked to the conflict, checking for correspondence with fluctuations in news volume.
 
 **Visualization**
-- **Interactive conflict map** — UN peacekeeping mission objects in the region are plotted (based on the mission's official map); key cities are marked with historical and military context, along with refugee camp locations, Algerian gas pipelines (reflecting changes in operational status over different periods), and the buffer zones and defensive wall (the Berm). A timestamped timeline is integrated for the UCDP GED data, allowing exploration of the dynamics of clashes and individual event descriptions.
+-🗺️ [View the interactive map](https://dataloop1.github.io/western-sahara-conflict-analysis/map.html) — UN peacekeeping mission objects in the region are plotted (based on the mission's official map); key cities are marked with historical and military context, along with refugee camp locations, Algerian gas pipelines (reflecting changes in operational status over different periods), and the buffer zones and defensive wall (the Berm). A timestamped timeline is integrated for the UCDP GED data, allowing exploration of the dynamics of clashes and individual event descriptions.
 - **Two-panel media-dynamics chart (Matplotlib)** — the top and bottom panels show the monthly dynamics of publication mentions by category (conflict-related and diplomatic content). 14 key external-date markers are overlaid on the chart to visually check whether peaks and dips in media activity line up with specific historical events.
 
 ![Monthly mentions: conflicts vs diplomatic](conflicts_vs_diplomatic.png)
@@ -45,15 +45,18 @@ ACLED was originally considered as the data source, but event-level access requi
 
 ## Insights
 
-Algeria does not take part in this conflict directly by fighting Morocco. Instead, it supports the POLISARIO regime through diplomatic backing (for example, severing diplomatic relations with Morocco led to the closure of a gas pipeline — a coincidence that could be read as an attempt at pressure by Algeria; however, this coincided specifically with the break in diplomatic relations, and the main pipeline to Europe runs through Moroccan territory), as well as military and economic support — Algeria is the core base of the whole POLISARIO movement, hosting its main bases, the movement's headquarters, and refugee camps for people who fled the Western Sahara region. This is confirmed by an SQL query: for events involving Algeria, Actor1=12, Actor2=20.
+Algeria does not take part in this conflict directly by fighting Morocco. Instead, it supports the POLISARIO regime through diplomatic backing (for example, severing diplomatic relations with Morocco led to the closure of a gas pipeline — a coincidence that could be read as an attempt at pressure by Algeria. However, this coincided specifically with the break in diplomatic relations, and the main pipeline to Europe runs through Moroccan territory), as well as military and economic support — Algeria is the core base of the whole POLISARIO movement, hosting its main bases, the movement's headquarters, and refugee camps for people who fled the Western Sahara region. This is confirmed by an SQL query: for events involving Algeria, Actor1=12, Actor2=20.
 
-On event types — there's no clear pattern showing that every external date drove a media spike: such matches don't always occur. The clearest example visible on the chart itself is the moment POLISARIO decided to break the ceasefire and launch full-scale hostilities (Guerguerat) — the largest spike on the chart, since that was when activity was at its most intense. Media activity declined afterward.
+On event types — there's no clear pattern showing that every external date drove a media spike: such matches don't always occur. The clearest example visible on the chart itself is the moment POLISARIO decided to break the ceasefire and launch full-scale hostilities (Guerguerat) — the largest spike(the count of monthly events jumped from single digits to 94–160) on the chart, since that was when activity was at its most intense. Media activity declined afterward.
 
 ---
 
 ## Limitations
+12 incidents—documented and verified by the UCDP. The verification of these incidents is based on media reports and UN reports, as most incidents in the conflict remain unverified due to information noise and MINURSO’s inability to travel to the sites to investigate. Therefore, based on these 12 entries, it is not possible to track trends over time or determine when the conflict was more active and when it was calmer.
 
-The dynamics analysis showed that correlation with external dates wasn't always present (for example, Guerguerat: `AVG(goldsteinscale)` barely changed even as the count jumped to 94/160 events). What grew was media coverage, not the severity of events.
+Translated with DeepL.com (free version)
+
+The dynamics analysis showed that correlation with external dates wasn't always present (for example, Guerguerat: `AVG(goldsteinscale)` barely changed even as the count jumped to 94(November) 160(December) events). What grew was media coverage, not the severity of events.
 
 GDELT systematically misclassifies certain events. Examples: an event in the database was categorized as conflict-related (since Goldstein values from -9 to -10 count as military violence), but on inspection the article turned out to be about Christopher Nolan's film "The Odyssey," which was filmed in the region. Separately, a news article about a planned diplomatic meeting in February 2026 was tagged by the filters with code 57 (as an already-signed agreement). In addition, `conflicts` picked up an event about the elimination of militants in the Egyptian desert by internal security forces — the region's name is a homonym of an Arabic phrase, and GDELT confused Western Sahara (the country/territory) with the "Western Desert of Egypt" (an ordinary geographic term within Egypt). On top of that, the event itself took place back in 2017.
 
@@ -126,8 +129,8 @@ the map now uses keyless OpenStreetMap tiles.
 | 4 | 01.11.2021 | Three Algerian drivers came under fire and were killed | ✅ Confirmed |
 | 5 | 14.03.2022 | Spain's Prime Minister sent an official letter to Morocco's King supporting the autonomy plan | ✅ Confirmed by external source |
 | 6 | 10.04.2022 | Drone strikes in the grey zone killed Mauritanian gold prospectors; POLISARIO severed ties with Spain over its support for the Moroccan autonomy plan | ⚠️ Confirmed, partially — the data includes another case with the same context but a different date (3 January 2022) |
-| 7 | 30.07.2024 | Official letter from French President Macron supporting the Moroccan autonomy plan | ✅ Confirmed by external source |
-| 8 | 29.10.2023 | Explosions in the city of Smara | ✅ Confirmed |
+| 7 | 29.10.2023 | Explosions in the city of Smara | ✅ Confirmed by external source |
+| 8 | 30.07.2024 | Official letter from French President Macron supporting the Moroccan autonomy plan | ✅ Confirmed |
 | 9 | 04.10.2024 | The ECJ ruled that Morocco's sovereignty over Western Sahara does not extend to it, so EU–Morocco trade agreements do not apply to the SADR | ✅ Confirmed |
 | 10 | 18.01.2025 | Moroccan media reported the elimination of a POLISARIO Front commander | ✅ Confirmed with a caveat — the exact death toll is unconfirmed |
 | 11 | 09.02.2026 | Closed-door talks in Madrid on resolving the situation | ⚠️ Talks confirmed, but the code-based measurement method is unreliable |
