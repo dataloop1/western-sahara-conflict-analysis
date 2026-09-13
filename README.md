@@ -47,7 +47,7 @@ ACLED was originally considered as the data source, but event-level access requi
 
 Algeria does not take part in this conflict directly by fighting Morocco. Instead, it supports the POLISARIO regime through diplomatic backing (for example, severing diplomatic relations with Morocco led to the closure of a gas pipeline — a coincidence that could be read as an attempt at pressure by Algeria. However, this coincided specifically with the break in diplomatic relations, and the main pipeline to Europe runs through Moroccan territory), as well as military and economic support — Algeria is the core base of the whole POLISARIO movement, hosting its main bases, the movement's headquarters, and refugee camps for people who fled the Western Sahara region. This is confirmed by an SQL query: for events involving Algeria, Actor1=12, Actor2=20.
 
-On event types — there's no clear pattern showing that every external date drove a media spike: such matches don't always occur. The clearest example visible on the chart itself is the moment POLISARIO decided to break the ceasefire and launch full-scale hostilities (Guerguerat) — the largest spike on the chart, since that was when activity was at its most intense. Media activity declined afterward.
+On event types — there's no clear pattern showing that every external date drove a media spike: such matches don't always occur. The clearest example visible on the chart itself is the moment POLISARIO decided to break the ceasefire and launch full-scale hostilities (Guerguerat) — the largest spike(the count of monthly events jumped from single digits to 94–160) on the chart, since that was when activity was at its most intense. Media activity declined afterward.
 
 ---
 
@@ -56,7 +56,7 @@ On event types — there's no clear pattern showing that every external date dro
 
 Translated with DeepL.com (free version)
 
-The dynamics analysis showed that correlation with external dates wasn't always present (for example, Guerguerat: `AVG(goldsteinscale)` barely changed even as the count jumped to 94/160 events). What grew was media coverage, not the severity of events.
+The dynamics analysis showed that correlation with external dates wasn't always present (for example, Guerguerat: `AVG(goldsteinscale)` barely changed even as the count jumped to 94(November) 160(December) events). What grew was media coverage, not the severity of events.
 
 GDELT systematically misclassifies certain events. Examples: an event in the database was categorized as conflict-related (since Goldstein values from -9 to -10 count as military violence), but on inspection the article turned out to be about Christopher Nolan's film "The Odyssey," which was filmed in the region. Separately, a news article about a planned diplomatic meeting in February 2026 was tagged by the filters with code 57 (as an already-signed agreement). In addition, `conflicts` picked up an event about the elimination of militants in the Egyptian desert by internal security forces — the region's name is a homonym of an Arabic phrase, and GDELT confused Western Sahara (the country/territory) with the "Western Desert of Egypt" (an ordinary geographic term within Egypt). On top of that, the event itself took place back in 2017.
 
