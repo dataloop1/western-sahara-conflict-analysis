@@ -54,8 +54,6 @@ On event types — there's no clear pattern showing that every external date dro
 ## Limitations
 12 incidents—documented and verified by the UCDP. The verification of these incidents is based on media reports and UN reports, as most incidents in the conflict remain unverified due to information noise and MINURSO’s inability to travel to the sites to investigate. Therefore, based on these 12 entries, it is not possible to track trends over time or determine when the conflict was more active and when it was calmer.
 
-Translated with DeepL.com (free version)
-
 The dynamics analysis showed that correlation with external dates wasn't always present (for example, Guerguerat: `AVG(goldsteinscale)` barely changed even as the count jumped to 94(November) 160(December) events). What grew was media coverage, not the severity of events.
 
 GDELT systematically misclassifies certain events. Examples: an event in the database was categorized as conflict-related (since Goldstein values from -9 to -10 count as military violence), but on inspection the article turned out to be about Christopher Nolan's film "The Odyssey," which was filmed in the region. Separately, a news article about a planned diplomatic meeting in February 2026 was tagged by the filters with code 57 (as an already-signed agreement). In addition, `conflicts` picked up an event about the elimination of militants in the Egyptian desert by internal security forces — the region's name is a homonym of an Arabic phrase, and GDELT confused Western Sahara (the country/territory) with the "Western Desert of Egypt" (an ordinary geographic term within Egypt). On top of that, the event itself took place back in 2017.
